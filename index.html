@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>よふすたタイムスタンプ検索</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#f7f7fa;color:#292936;font-family:-apple-system,BlinkMacSystemFont,"Noto Sans JP",sans-serif}
+header{background:#fff;padding:28px 20px 22px;border-bottom:1px solid #eee}
+h1{font-size:23px;margin:0 0 8px}
+.sub{font-size:13px;color:#777}
+main{max-width:760px;margin:auto;padding:22px 16px}
+input{width:100%;padding:16px;border:1px solid #ddd;border-radius:13px;font-size:16px;background:white}
+.info{font-size:13px;color:#777;margin:12px 2px 20px}
+.result{background:white;border:1px solid #e9e9ef;border-radius:13px;padding:16px;margin:12px 0}
+.episode{font-weight:700;font-size:16px;margin-bottom:8px}
+.content{font-size:14px;line-height:1.7;white-space:pre-wrap;overflow-wrap:anywhere}
+a{display:inline-block;margin-top:10px;color:#5268bd;text-decoration:none;font-size:14px}
+mark{background:#fff0a8}
+.empty{text-align:center;color:#888;padding:35px 10px}
+footer{text-align:center;color:#999;font-size:12px;padding:30px}
+</style>
+</head>
+<body>
+<header>
+<h1>🔎 よふすたタイムスタンプ検索</h1>
+<div class="sub">よふすた・夜ふかしStudioの話題を検索</div>
+</header>
+
+<main>
+<input id="search" type="search" placeholder="話題やキーワードを入力">
+<div class="info" id="status">検索データを読み込んでいます…</div>
+<div id="results"></div>
+</main>
+
+<footer>よふすたタイムスタンプ検索</footer>
+
+<script>
+let lines = [];
+const search = document.getElementById("search");
+const results = document.getElementById("results");
+const status = document.getElementById("status");
+
+fetch("./data.txt")
+.then(response => {
+  if (!response.ok) throw new Error("data.txt がありません");
+  return response.text();
+})
+.then(text => {
+  lines = text.split(/\r?\n/).filter(line => line.trim());
+  status.textContent = "検索データ読み込み完了";
+  search.disabled = false;
+})
+.catch(() => {
+  status.textContent = "検索データはまだ登録されていません。準備中です。";
+  search.disabled = true;
+});
+
+function escapeHTML(text) {
+  return text.replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+
+function runSearch() {
+  const word = search.value.trim().toLowerCase();
+  results.innerHTML = "";
+  if (!word) return;
+
+  const found = [];
+  for (let i = 0; i < lines.length; i++) {
+    if (lines[i].toLowerCase().includes(word)) {
+      found.push(i);
+    }
+  }
+
+  status.textContent = found.length + " 件の該当行が見つかりました";
+
+  if (!found.length) {
+    results.innerHTML = '<div class="empty">該当する話題は見つかりませんでした</div>';
+    return;
+  }
+
+  found.slice(0, 100).forEach(i => {
+    const line = lines[i];
+    const box = document.createElement("div");
+    box.className = "result";
+
+    const url = line.match(/https?:\/\/[^\s]+/);
+    box.innerHTML =
+      '<div class="content">' + escapeHTML(line) + '</div>' +
+      (url ? '<a href="' + escapeHTML(url[0]) + '" target="_blank" rel="noopener">YouTubeを開く ↗</a>' : '');
+
+    results.appendChild(box);
+  });
+}
+
+search.addEventListener("input", runSearch);
+search.disabled = true;
+</script>
+</body>
+</html>
