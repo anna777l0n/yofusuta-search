@@ -1,7 +1,7 @@
 [
   {
     "episode": "#1",
-    "url": "https://www.youtube.com/live/ONBhCNLzwRk?si=E0n1ALCtVJxJU_Pw",
+    "url": "https://www.youtube.com/live/ONBhCNLzwRk?si=E0n1ALCtVJxJU_Pw0",
     "entries": [
       {
         "time": "0:25",
@@ -20,7 +20,17 @@
       },
       {
         "time": "33:39",
-        "title": "グロ作品の入り口 スターシップ ･ トゥルーパーズ､ 37:10 〜ひぐらしのなく頃 にはグロ？､ 38:30 〜テラフォーマーズ､ 東京喰種",
+        "title": "グロ作品の入り口 スターシップ ･ トゥルーパーズ",
+        "section": ""
+      },
+      {
+        "time": "37:10",
+        "title": "ひぐらしのなく頃にはグロ？",
+        "section": ""
+      },
+      {
+        "time": "38:30",
+        "title": "テラフォーマーズ､ 東京喰種",
         "section": ""
       },
       {
@@ -30,7 +40,7 @@
       },
       {
         "time": "42:18",
-        "title": "お仕事告知 #2",
+        "title": "お仕事告知",
         "section": ""
       }
     ]
@@ -76,14 +86,14 @@
       },
       {
         "time": "58:35",
-        "title": "エンディング #3",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#3",
-    "url": "https://www.youtube.com/live/dYGe4b5aIgg?si=KF12UsZ5Myb62PdC",
+    "url": "https://www.youtube.com/live/dYGe4b5aIgg?si=KF12UsZ5Myb62PdC1",
     "entries": [
       {
         "time": "1:06",
@@ -122,14 +132,14 @@
       },
       {
         "time": "50:19",
-        "title": "エンディング #4",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#4",
-    "url": "https://www.youtube.com/live/HfYah9LgZKU?si=bD7mVjwfA_XMicBL",
+    "url": "https://www.youtube.com/live/HfYah9LgZKU?si=bD7mVjwfA_XMicBL1",
     "entries": [
       {
         "time": "1:13",
@@ -158,14 +168,14 @@
       },
       {
         "time": "1:00:17",
-        "title": "お仕事告知 #5",
+        "title": "お仕事告知",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#5",
-    "url": "https://www.youtube.com/live/P6QK3px8OJg?si=naMI0SJr6djTHWW7",
+    "url": "https://www.youtube.com/live/P6QK3px8OJg?si=naMI0SJr6djTHWW70",
     "entries": [
       {
         "time": "0:54",
@@ -214,18 +224,23 @@
       },
       {
         "time": "59:35",
-        "title": "生配信告知 #6",
+        "title": "生配信告知",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#6",
-    "url": "https://www.youtube.com/live/tByNERb5QMg?si=4mpPIS_6s1KkpAQx",
+    "url": "https://www.youtube.com/live/tByNERb5QMg?si=4mpPIS_6s1KkpAQx1",
     "entries": [
       {
         "time": "1:00",
-        "title": "近況トーク (5:17 〜冬服届きまし た報告 )",
+        "title": "近況トーク",
+        "section": ""
+      },
+      {
+        "time": "5:17",
+        "title": "冬服届きました報告",
         "section": ""
       },
       {
@@ -255,14 +270,14 @@
       },
       {
         "time": "55:50",
-        "title": "エンディング､ お仕事告知 #7",
+        "title": "エンディング､ お仕事告知",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#7",
-    "url": "https://www.youtube.com/live/2ZvZQapaHcs?si=qLLkzxg-je9srCJH",
+    "url": "https://www.youtube.com/live/2ZvZQapaHcs?si=qLLkzxg-je9srCJH0",
     "entries": [
       {
         "time": "0:33",
@@ -291,39 +306,39 @@
       },
       {
         "time": "27:58",
-        "title": "結婚式で惇太さんの曲を使用し てもいい？",
+        "title": "結婚式で惇太さんの曲を使用し てもいい？ 深く語らせて",
         "section": "ふつおた"
       },
       {
         "time": "31:10",
         "title": "人生に影響を受けた曲",
-        "section": "深く語らせて"
+        "section": "ふつおた"
       },
       {
         "time": "33:00",
         "title": "物心ついた頃編 ？ ZARD 等",
-        "section": "深く語らせて"
+        "section": "ふつおた"
       },
       {
         "time": "41:06",
         "title": "小学生編 KinKiKids 等",
-        "section": "深く語らせて"
+        "section": "ふつおた"
       },
       {
         "time": "45:34",
         "title": "中学生編 ガガガ SP､ BUMP､ KICK THE CAN CREW 等 時間の関係で高校生編は次回に持ち越し",
-        "section": "深く語らせて"
+        "section": "ふつおた"
       },
       {
         "time": "1:01:12",
-        "title": "生配信告知､ エンディング #8",
-        "section": "深く語らせて"
+        "title": "生配信告知､ エンディング",
+        "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#8",
-    "url": "https://www.youtube.com/live/U8BDqeGf9UA?si=mDWuq1uVMUR87_wY",
+    "url": "https://www.youtube.com/live/U8BDqeGf9UA?si=mDWuq1uVMUR87_wY0",
     "entries": [
       {
         "time": "0:25",
@@ -357,14 +372,14 @@
       },
       {
         "time": "54:18",
-        "title": "エンディング #9",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#9",
-    "url": "https://www.youtube.com/live/U8BDqeGf9UA?si=mDWuq1uVMUR87_wY",
+    "url": "https://www.youtube.com/live/U8BDqeGf9UA?si=mDWuq1uVMUR87_wY1",
     "entries": [
       {
         "time": "1:04",
@@ -398,7 +413,12 @@
       },
       {
         "time": "1:00:15",
-        "title": "今年買った中でいちばん高か った買い物 (2021 年の買ってよかったもの) (1:18:02 〜 小松さんと無印に行ったお 話)",
+        "title": "今年買った中でいちばん高か った買い物 (2021 年の買ってよかったもの)",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:18:02",
+        "title": "小松さんと無印に行ったお話",
         "section": "ふつおた"
       },
       {
@@ -433,14 +453,14 @@
       },
       {
         "time": "2:26:42",
-        "title": "エンディング 2021 年の振り 返り､ 次回配信等について #10",
+        "title": "エンディング 2021 年の振り 返り､ 次回配信等について",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#10",
-    "url": "https://www.youtube.com/live/rsCs2xvITow?si=wymFv0cVG-sGxU4G",
+    "url": "https://www.youtube.com/live/rsCs2xvITow?si=wymFv0cVG-sGxU4G0",
     "entries": [
       {
         "time": "0:27",
@@ -464,7 +484,7 @@
       },
       {
         "time": "57:22",
-        "title": "エンディング [newpage] [chapter: #20] # 11",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
@@ -495,15 +515,30 @@
       },
       {
         "time": "58:55",
-        "title": "エンディング # 12",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#12",
-    "url": "https://www.youtube.com/live/42V-EaGGy_o?si=u4j7vDMwHxbFFvS20:32〜近況トーク1:56〜JOY-NERのお話4:46〜JOY-NER応援メール",
+    "url": "https://www.youtube.com/live/42V-EaGGy_o?si=u4j7vDMwHxbFFvS20",
     "entries": [
+      {
+        "time": "0:32",
+        "title": "近況トーク",
+        "section": ""
+      },
+      {
+        "time": "1:56",
+        "title": "JOY-NER のお話",
+        "section": ""
+      },
+      {
+        "time": "4:46",
+        "title": "JOY-NER 応援メール",
+        "section": ""
+      },
       {
         "time": "6:52",
         "title": "悲劇の 1日",
@@ -526,14 +561,14 @@
       },
       {
         "time": "59:41",
-        "title": "エンディング # 13",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#13",
-    "url": "https://www.youtube.com/live/q28TJNinSSE?si=2MR20LY14rnUMG7X",
+    "url": "https://www.youtube.com/live/q28TJNinSSE?si=2MR20LY14rnUMG7X1",
     "entries": [
       {
         "time": "1:03",
@@ -567,15 +602,20 @@
       },
       {
         "time": "59:18",
-        "title": "エンディング # 14",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#14",
-    "url": "https://www.youtube.com/live/_1sF_l42tak?si=0AfRnU5lL4ic3gdM1:55〜明日はDJにゃずまさんのお誕生日(色んな声優さんのお名前が出てます)",
+    "url": "https://www.youtube.com/live/_1sF_l42tak?si=0AfRnU5lL4ic3gdM1",
     "entries": [
+      {
+        "time": "1:55",
+        "title": "明日は DJ にゃずまさんのお誕生日 (色んな声優さんのお名前が出てます)",
+        "section": ""
+      },
       {
         "time": "9:00",
         "title": "弟の誕生日プレゼント",
@@ -598,7 +638,7 @@
       },
       {
         "time": "52:05",
-        "title": "エンディング # 15",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
@@ -610,32 +650,32 @@
       {
         "time": "3:22",
         "title": "リハでのエピソードや裏話",
-        "section": "ふつおた (JOY-NER 関連)"
+        "section": "ふつおた"
       },
       {
         "time": "13:15",
         "title": "応援メール",
-        "section": "ふつおた (JOY-NER 関連)"
+        "section": "ふつおた"
       },
       {
         "time": "17:05",
         "title": "セトリのこだわりポイント",
-        "section": "ふつおた (JOY-NER 関連)"
+        "section": "ふつおた"
       },
       {
         "time": "24:15",
         "title": "応援メール",
-        "section": "ふつおた (JOY-NER 関連)"
+        "section": "ふつおた"
       },
       {
         "time": "27:01",
         "title": "声出し解禁になったらどんなコ ール入れて欲しい？",
-        "section": "ふつおた (JOY-NER 関連)"
+        "section": "ふつおた"
       },
       {
         "time": "31:20",
         "title": "卒業式エピソード",
-        "section": "ふつおた (JOY-NER 関連)"
+        "section": "ふつおた"
       },
       {
         "time": "39:15",
@@ -644,14 +684,14 @@
       },
       {
         "time": "1:02:56",
-        "title": "エンディング # 16",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#16",
-    "url": "https://www.youtube.com/live/LyviVwTSinU?si=0BfNahXp2a3N9xvO",
+    "url": "https://www.youtube.com/live/LyviVwTSinU?si=0BfNahXp2a3N9xvO0",
     "entries": [
       {
         "time": "0:38",
@@ -670,19 +710,24 @@
       },
       {
         "time": "22:29",
-        "title": "理想の間取りや (物件に) 取り入 れたいシステムは？ 43:33 〜 タイムリープとタイムトラベル について",
+        "title": "理想の間取りや (物件に) 取り入 れたいシステムは？",
         "section": "ふつおた"
       },
       {
+        "time": "43:33",
+        "title": "タイムリープとタイムトラベル について",
+        "section": "浅く語らせて"
+      },
+      {
         "time": "1:00:33",
-        "title": "エンディング # 17",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#17",
-    "url": "https://www.youtube.com/live/IPIyxjf3VJs?si=ufN4SeiDlWE_-obG",
+    "url": "https://www.youtube.com/live/IPIyxjf3VJs?si=ufN4SeiDlWE_-obG0",
     "entries": [
       {
         "time": "0:44",
@@ -711,14 +756,14 @@
       },
       {
         "time": "1:05:08",
-        "title": "エンディング ＃ 18",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#18",
-    "url": "https://www.youtube.com/live/gmC5y0CMy-4?si=GjT7wnxLVmQxJB89",
+    "url": "https://www.youtube.com/live/gmC5y0CMy-4?si=GjT7wnxLVmQxJB891",
     "entries": [
       {
         "time": "1:25",
@@ -747,14 +792,14 @@
       },
       {
         "time": "1:01:54",
-        "title": "エンディング ＃ 19",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#19",
-    "url": "https://www.youtube.com/live/9gyBvd8DCQs?si=KvWfMA_hpWrcvpPU",
+    "url": "https://www.youtube.com/live/9gyBvd8DCQs?si=KvWfMA_hpWrcvpPU1",
     "entries": [
       {
         "time": "1:14",
@@ -783,14 +828,14 @@
       },
       {
         "time": "1:00:47",
-        "title": "エンディング ＃ 20",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#20",
-    "url": "https://www.youtube.com/live/VqUsMMzPRGE?si=xyRUHwbMl707nXQE",
+    "url": "https://www.youtube.com/live/VqUsMMzPRGE?si=xyRUHwbMl707nXQE0",
     "entries": [
       {
         "time": "0:27",
@@ -829,14 +874,14 @@
       },
       {
         "time": "59:09",
-        "title": "エンディング [newpage] [chapter: #30] ＃ 21",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#21",
-    "url": "https://www.youtube.com/live/e5juVpgfL-Q?si=gU8Qrb_o1Q6Cwqjf",
+    "url": "https://www.youtube.com/live/e5juVpgfL-Q?si=gU8Qrb_o1Q6Cwqjf1",
     "entries": [
       {
         "time": "1:03",
@@ -865,14 +910,14 @@
       },
       {
         "time": "57:10",
-        "title": "エンディング ＃ 22",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#22",
-    "url": "https://www.youtube.com/live/iWvcmjjowu4?si=k1mSq5Bf_NdqHEPj",
+    "url": "https://www.youtube.com/live/iWvcmjjowu4?si=k1mSq5Bf_NdqHEPj1",
     "entries": [
       {
         "time": "1:06",
@@ -901,14 +946,14 @@
       },
       {
         "time": "58:43",
-        "title": "エンディング # 23",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#23",
-    "url": "https://www.youtube.com/live/0SxqnQmDHs8?si=CVkQma4euWk0bY3d",
+    "url": "https://www.youtube.com/live/0SxqnQmDHs8?si=CVkQma4euWk0bY3d0",
     "entries": [
       {
         "time": "0:18",
@@ -932,14 +977,14 @@
       },
       {
         "time": "57:40",
-        "title": "エンディング # 24",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#24",
-    "url": "https://www.youtube.com/live/RENhW_9ymHI?si=fpLtPSo_9L1GMzsv",
+    "url": "https://www.youtube.com/live/RENhW_9ymHI?si=fpLtPSo_9L1GMzsv0",
     "entries": [
       {
         "time": "0:17",
@@ -963,14 +1008,14 @@
       },
       {
         "time": "57:41",
-        "title": "エンディング (告知など) # 25",
+        "title": "エンディング (告知など)",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#25",
-    "url": "https://www.youtube.com/live/mR0DkRcZ2bA?si=Xg9ksfjAjQfCdg86",
+    "url": "https://www.youtube.com/live/mR0DkRcZ2bA?si=Xg9ksfjAjQfCdg860",
     "entries": [
       {
         "time": "0:14",
@@ -999,14 +1044,14 @@
       },
       {
         "time": "1:00:40",
-        "title": "エンディング # 26",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#26",
-    "url": "https://www.youtube.com/live/lWaiE5TRjkQ?si=hOiRtsHA6PXX74YD",
+    "url": "https://www.youtube.com/live/lWaiE5TRjkQ?si=hOiRtsHA6PXX74YD1",
     "entries": [
       {
         "time": "1:11",
@@ -1030,14 +1075,14 @@
       },
       {
         "time": "1:16:13",
-        "title": "エンディング (ラジオ内で紹介 しなくていい感想メールは文頭に ｢紹介しな いで大丈夫です｣ 等をつけたら とのこと) (コメントに赤堀さん) # 27",
+        "title": "エンディング (ラジオ内で紹介 しなくていい感想メールは文頭に ｢紹介しな いで大丈夫です｣ 等をつけたら とのこと) (コメントに赤堀さん)",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#27",
-    "url": "https://www.youtube.com/live/KddHZzv5dW8?si=ZOL9VTgspy3fd-6Y",
+    "url": "https://www.youtube.com/live/KddHZzv5dW8?si=ZOL9VTgspy3fd-6Y0",
     "entries": [
       {
         "time": "0:26",
@@ -1061,14 +1106,14 @@
       },
       {
         "time": "59:39",
-        "title": "エンディング # 28",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#28",
-    "url": "https://www.youtube.com/live/xnrhcvRS6xs?si=CnupJJ5ISRE0G_01",
+    "url": "https://www.youtube.com/live/xnrhcvRS6xs?si=CnupJJ5ISRE0G_010",
     "entries": [
       {
         "time": "0:45",
@@ -1097,14 +1142,14 @@
       },
       {
         "time": "58:49",
-        "title": "エンディング # 29",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#29",
-    "url": "https://www.youtube.com/live/DWmT6LasdLM?si=EEqc_b50d9NcCqa1",
+    "url": "https://www.youtube.com/live/DWmT6LasdLM?si=EEqc_b50d9NcCqa12",
     "entries": [
       {
         "time": "2:13",
@@ -1133,7 +1178,7 @@
       },
       {
         "time": "56:34",
-        "title": "エンディング (ゲーム配信､ お 仕事告知など) # 30",
+        "title": "エンディング (ゲーム配信､ お 仕事告知など)",
         "section": "浅く語らせて"
       }
     ]
@@ -1169,7 +1214,7 @@
       },
       {
         "time": "57:59",
-        "title": "エンディング (お仕事告知) [newpage] [chapter: よふすた 31 回〜 60 回まで # 31",
+        "title": "エンディング (お仕事告知)",
         "section": "浅く語らせて"
       }
     ]
@@ -1190,14 +1235,14 @@
       },
       {
         "time": "1:02:40",
-        "title": "エンディング # 32 (小松昌平さんゲスト)",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#32 (小松昌平さんゲスト)",
-    "url": "https://www.youtube.com/live/l30pLf5X_n8?si=bMOoITi7G21rnGxU",
+    "url": "https://www.youtube.com/live/l30pLf5X_n8?si=bMOoITi7G21rnGxU1",
     "entries": [
       {
         "time": "1:44",
@@ -1231,14 +1276,14 @@
       },
       {
         "time": "50:45",
-        "title": "エンディング # 33",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#33",
-    "url": "https://www.youtube.com/live/0H3Nu21QkTc?si=A-z4hdtK-f94WDt_",
+    "url": "https://www.youtube.com/live/0H3Nu21QkTc?si=A-z4hdtK-f94WDt_0",
     "entries": [
       {
         "time": "0:25",
@@ -1262,14 +1307,14 @@
       },
       {
         "time": "59:33",
-        "title": "エンディング # 34",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#34",
-    "url": "https://www.youtube.com/live/bBmpohUXCRo?si=Labpxq1bVLUtufeK",
+    "url": "https://www.youtube.com/live/bBmpohUXCRo?si=Labpxq1bVLUtufeK2",
     "entries": [
       {
         "time": "2:09",
@@ -1303,14 +1348,14 @@
       },
       {
         "time": "2:04:09",
-        "title": "エンディング # 35",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#35",
-    "url": "https://www.youtube.com/live/s2uAu0aeVWc?si=vSX_YrqsHVGTk5Sn",
+    "url": "https://www.youtube.com/live/s2uAu0aeVWc?si=vSX_YrqsHVGTk5Sn0",
     "entries": [
       {
         "time": "0:25",
@@ -1334,7 +1379,7 @@
       },
       {
         "time": "59:23",
-        "title": "エンディング # 36",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
@@ -1370,14 +1415,14 @@
       },
       {
         "time": "1:01:44",
-        "title": "エンディング # 37",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#37",
-    "url": "https://www.youtube.com/live/xupZKdWhckw?si=eAHb84p0u3qnbBfD",
+    "url": "https://www.youtube.com/live/xupZKdWhckw?si=eAHb84p0u3qnbBfD0",
     "entries": [
       {
         "time": "0:27",
@@ -1401,14 +1446,14 @@
       },
       {
         "time": "58:40",
-        "title": "エンディング # 38",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#38",
-    "url": "https://www.youtube.com/live/bVdj4RsnX7g?si=rJpIRTTzfObveWsS",
+    "url": "https://www.youtube.com/live/bVdj4RsnX7g?si=rJpIRTTzfObveWsS3",
     "entries": [
       {
         "time": "3:00",
@@ -1427,15 +1472,25 @@
       },
       {
         "time": "1:02:45",
-        "title": "エンディング # 39",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#39",
-    "url": "https://www.youtube.com/live/2a5s8Gq4Cmc?si=JeXK8RTqzGYlkqPl0:52〜お知らせ(リリイベ)4:55〜5:52〜R-1グランプリ",
+    "url": "https://www.youtube.com/live/2a5s8Gq4Cmc?si=JeXK8RTqzGYlkqPl0",
     "entries": [
+      {
+        "time": "0:52",
+        "title": "お知らせ (リリイベ)",
+        "section": ""
+      },
+      {
+        "time": "5:52",
+        "title": "R-1 グランプリ",
+        "section": ""
+      },
       {
         "time": "31:23",
         "title": "鼻詰まり解消法",
@@ -1458,14 +1513,14 @@
       },
       {
         "time": "1:01:31",
-        "title": "エンディング # 40",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#40",
-    "url": "https://www.youtube.com/live/qqVX5bCO7s4?si=j5cTxpp0idCgNIww",
+    "url": "https://www.youtube.com/live/qqVX5bCO7s4?si=j5cTxpp0idCgNIww0",
     "entries": [
       {
         "time": "0:46",
@@ -1494,14 +1549,14 @@
       },
       {
         "time": "58:33",
-        "title": "エンディング [newpage] [chapter: # 41",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#41",
-    "url": "https://www.youtube.com/live/ovttE9i_fjQ?si=ZQbZBDOFNA5e2usq",
+    "url": "https://www.youtube.com/live/ovttE9i_fjQ?si=ZQbZBDOFNA5e2usq0",
     "entries": [
       {
         "time": "0:46",
@@ -1525,14 +1580,14 @@
       },
       {
         "time": "1:04:24",
-        "title": "エンディング # 42 #42</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#42",
-    "url": "https://www.youtube.com/live/er2Evh3SteU?si=OaedeQksorRN-IaP",
+    "url": "https://www.youtube.com/live/er2Evh3SteU?si=OaedeQksorRN-IaP1",
     "entries": [
       {
         "time": "1:35",
@@ -1551,19 +1606,24 @@
       },
       {
         "time": "28:25",
-        "title": "子供の頃好きだったゲームのお話 (49:05 〜ネカマ)",
+        "title": "子供の頃好きだったゲームのお話",
+        "section": ""
+      },
+      {
+        "time": "49:05",
+        "title": "ネカマ",
         "section": ""
       },
       {
         "time": "54:24",
-        "title": "エンディング # 43 #43</ span>",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#43",
-    "url": "https://www.youtube.com/live/defLVJslF4E?si=HzEW7YK8g7Q8VW87",
+    "url": "https://www.youtube.com/live/defLVJslF4E?si=HzEW7YK8g7Q8VW870",
     "entries": [
       {
         "time": "0:23",
@@ -1592,7 +1652,7 @@
       },
       {
         "time": "59:13",
-        "title": "エンディング # 44 #44</ span>",
+        "title": "エンディング",
         "section": ""
       }
     ]
@@ -1623,14 +1683,14 @@
       },
       {
         "time": "1:02:46",
-        "title": "エンディング # 45 #45</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#45",
-    "url": "https://www.youtube.com/live/bzwuQuMonF0?si=uPJHWpRPfjrG5Cvg",
+    "url": "https://www.youtube.com/live/bzwuQuMonF0?si=uPJHWpRPfjrG5Cvg0",
     "entries": [
       {
         "time": "0:41",
@@ -1654,14 +1714,14 @@
       },
       {
         "time": "58:19",
-        "title": "エンディング # 46 #46</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#46",
-    "url": "https://www.youtube.com/live/Z0eQGgXEXjk?si=TJ8AtwbfGyOvgD17",
+    "url": "https://www.youtube.com/live/Z0eQGgXEXjk?si=TJ8AtwbfGyOvgD171",
     "entries": [
       {
         "time": "1:07",
@@ -1685,14 +1745,14 @@
       },
       {
         "time": "1:01:58",
-        "title": "エンディング # 47 #47</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#47",
-    "url": "https://www.youtube.com/live/LWX5WGuZWlI?si=aF4ppJ1BQMj7RG7-",
+    "url": "https://www.youtube.com/live/LWX5WGuZWlI?si=aF4ppJ1BQMj7RG7-4",
     "entries": [
       {
         "time": "4:40",
@@ -1716,14 +1776,14 @@
       },
       {
         "time": "1:01:42",
-        "title": "エンディング # 48 #48</ span>",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#48",
-    "url": "https://www.youtube.com/live/ih7boluZ3aM?si=829Fzua2EzT9y3rs",
+    "url": "https://www.youtube.com/live/ih7boluZ3aM?si=829Fzua2EzT9y3rs0",
     "entries": [
       {
         "time": "0:19",
@@ -1747,14 +1807,14 @@
       },
       {
         "time": "59:53",
-        "title": "エンディング # 49 #49(顔 出し)",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#49",
-    "url": "https://www.youtube.com/live/14zoMV95DSA?si=vTv3Lna9JWLAI8RG",
+    "url": "https://www.youtube.com/live/14zoMV95DSA?si=vTv3Lna9JWLAI8RG2",
     "entries": [
       {
         "time": "2:40",
@@ -1803,14 +1863,14 @@
       },
       {
         "time": "1:06:00",
-        "title": "エンディング (お仕事告知な ど) # 50 #50</ span>",
+        "title": "エンディング (お仕事告知な ど)",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#50",
-    "url": "https://www.youtube.com/live/QMUAtrezBSM?si=CY3Pd3XB5ISJT--K",
+    "url": "https://www.youtube.com/live/QMUAtrezBSM?si=CY3Pd3XB5ISJT--K0",
     "entries": [
       {
         "time": "0:15",
@@ -1829,14 +1889,14 @@
       },
       {
         "time": "1:00:57",
-        "title": "エンディング [newpage] [chapter: #60] # 51 #51</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#51",
-    "url": "https://www.youtube.com/live/DQtlNmBZqZ8?si=LDBX7KejMVSV0hc9",
+    "url": "https://www.youtube.com/live/DQtlNmBZqZ8?si=LDBX7KejMVSV0hc91",
     "entries": [
       {
         "time": "1:06",
@@ -1865,14 +1925,14 @@
       },
       {
         "time": "1:01:51",
-        "title": "エンディング # 52 #52</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#52",
-    "url": "https://www.youtube.com/live/RttVSlrrUgA?si=9nafzcT0gEVJtk5C",
+    "url": "https://www.youtube.com/live/RttVSlrrUgA?si=9nafzcT0gEVJtk5C0",
     "entries": [
       {
         "time": "0:17",
@@ -1916,14 +1976,14 @@
       },
       {
         "time": "1:00:07",
-        "title": "エンディング # 53 #53</ span>",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#53",
-    "url": "https://www.youtube.com/live/HpFhwoVkp-0?si=uYsWVwifo8i17BLS",
+    "url": "https://www.youtube.com/live/HpFhwoVkp-0?si=uYsWVwifo8i17BLS0",
     "entries": [
       {
         "time": "0:27",
@@ -1947,14 +2007,14 @@
       },
       {
         "time": "1:01:32",
-        "title": "エンディング # 54 #54</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#54",
-    "url": "https://www.youtube.com/live/VPw_dV81ZZw?si=1sDAmea0asrzc5tJ",
+    "url": "https://www.youtube.com/live/VPw_dV81ZZw?si=1sDAmea0asrzc5tJ2",
     "entries": [
       {
         "time": "2:16",
@@ -1983,54 +2043,65 @@
       },
       {
         "time": "1:01:27",
-        "title": "エンディング # 55 ) si=60O8VQFkvgdRxFWB",
-        "section": "ふつおた"
-      },
-      {
-        "time": "0:02",
-        "title": "スタート",
-        "section": "ふつおた"
-      },
-      {
-        "time": "1:15",
-        "title": "2023 の振り返り (M-1 2023(敗者復 活戦込) のお話)(18:47 〜芸歴のお話)",
-        "section": "ふつおた"
-      },
-      {
-        "time": "23:19",
-        "title": "2023 年ベストソング",
-        "section": "ふつおた"
-      },
-      {
-        "time": "23:57",
-        "title": "その ①",
-        "section": "ふつおた"
-      },
-      {
-        "time": "34:10",
-        "title": "その ②",
-        "section": "ふつおた"
-      },
-      {
-        "time": "41:17",
-        "title": "その ③",
-        "section": "ふつおた"
-      },
-      {
-        "time": "49:48",
-        "title": "番外編 (すごいと思った歌詞)",
-        "section": "ふつおた"
-      },
-      {
-        "time": "53:10",
-        "title": "エンディング # 56 #56</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
+    "episode": "#55",
+    "url": "https://youtu.be/ZStksDnP1is?si=60O8VQFkvgdRxFWB0",
+    "entries": [
+      {
+        "time": "0:02",
+        "title": "スタート",
+        "section": ""
+      },
+      {
+        "time": "1:15",
+        "title": "2023 の振り返り (M-1 2023(敗者復 活戦込) のお話)",
+        "section": ""
+      },
+      {
+        "time": "18:47",
+        "title": "芸歴のお話",
+        "section": ""
+      },
+      {
+        "time": "23:19",
+        "title": "2023 年ベストソング",
+        "section": ""
+      },
+      {
+        "time": "23:57",
+        "title": "その ①",
+        "section": ""
+      },
+      {
+        "time": "34:10",
+        "title": "その ②",
+        "section": ""
+      },
+      {
+        "time": "41:17",
+        "title": "その ③",
+        "section": ""
+      },
+      {
+        "time": "49:48",
+        "title": "番外編 (すごいと思った歌詞)",
+        "section": ""
+      },
+      {
+        "time": "53:10",
+        "title": "エンディング",
+        "section": ""
+      }
+    ]
+  },
+  {
     "episode": "#56",
-    "url": "https://www.youtube.com/live/pH_EKKeLUb8?si=kR3z6V_-Ec3PsIVj",
+    "url": "https://www.youtube.com/live/pH_EKKeLUb8?si=kR3z6V_-Ec3PsIVj0",
     "entries": [
       {
         "time": "0:46",
@@ -2044,7 +2115,17 @@
       },
       {
         "time": "12:32",
-        "title": "VIVANT 感想 (14:41 〜 VIVANT プレゼン (ネタバレなし)30:25 シ ンエヴァ)",
+        "title": "VIVANT 感想",
+        "section": ""
+      },
+      {
+        "time": "14:41",
+        "title": "VIVANT プレゼンネタバレなし",
+        "section": ""
+      },
+      {
+        "time": "30:25",
+        "title": "シンエヴァ)",
         "section": ""
       },
       {
@@ -2054,14 +2135,14 @@
       },
       {
         "time": "1:00:01",
-        "title": "エンディング # 57 #57</ span>",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#57",
-    "url": "https://www.youtube.com/live/UBUisdHCFn8?si=QE87iYI1M-LmZUX4",
+    "url": "https://www.youtube.com/live/UBUisdHCFn8?si=QE87iYI1M-LmZUX40",
     "entries": [
       {
         "time": "0:29",
@@ -2085,14 +2166,14 @@
       },
       {
         "time": "59:25",
-        "title": "エンディング # 58 #58</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#58",
-    "url": "https://www.youtube.com/live/sV2QFVRaisM?si=Lmx2g8487mgu-f3v",
+    "url": "https://www.youtube.com/live/sV2QFVRaisM?si=Lmx2g8487mgu-f3v0",
     "entries": [
       {
         "time": "0:28",
@@ -2121,14 +2202,14 @@
       },
       {
         "time": "1:01:15",
-        "title": "エンディング # 59 #59</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#59",
-    "url": "https://www.youtube.com/live/b1TTHMp_dMs?si=CQ502U5uhrSjdfSq",
+    "url": "https://www.youtube.com/live/b1TTHMp_dMs?si=CQ502U5uhrSjdfSq0",
     "entries": [
       {
         "time": "0:32",
@@ -2152,14 +2233,14 @@
       },
       {
         "time": "1:02:42",
-        "title": "エンディング # 60 #60</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#60",
-    "url": "https://www.youtube.com/live/ZuAjQzoUpcY?si=oXAnvgcyhKNAFj8P",
+    "url": "https://www.youtube.com/live/ZuAjQzoUpcY?si=oXAnvgcyhKNAFj8P0",
     "entries": [
       {
         "time": "0:41",
@@ -2188,14 +2269,14 @@
       },
       {
         "time": "59:26",
-        "title": "エンディング #61 2024/4/3</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#61",
-    "url": "https://www.youtube.com/live/KNXcQiYEm78?si=XsNwjEyPtScYUpPh",
+    "url": "https://www.youtube.com/live/KNXcQiYEm78?si=XsNwjEyPtScYUpPh0",
     "entries": [
       {
         "time": "0:27",
@@ -2224,14 +2305,14 @@
       },
       {
         "time": "58:57",
-        "title": "エンディング 2024/4/17</span",
+        "title": "エンディング",
         "section": "浅く語らせて"
       }
     ]
   },
   {
     "episode": "#62",
-    "url": "https://www.youtube.com/live/vjGjkLWmlT0?si=f9Fo_x9TKBKMDmor",
+    "url": "https://www.youtube.com/live/vjGjkLWmlT0?si=f9Fo_x9TKBKMDmor1",
     "entries": [
       {
         "time": "1:56",
@@ -2260,23 +2341,33 @@
       },
       {
         "time": "1:58:00",
-        "title": "エンディング #63 2024/5/1</span",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#63",
-    "url": "https://www.youtube.com/live/IUYmTTKUZnA?si=AE3hAXlaN6Zd2Ktm",
+    "url": "https://www.youtube.com/live/IUYmTTKUZnA?si=AE3hAXlaN6Zd2Ktm0",
     "entries": [
       {
         "time": "0:58",
-        "title": "ゴールデンウィークなのかい (福本 先生の作品のお話 (アカギなど)36:07 〜惇 太さんと小松さんの共通点)",
+        "title": "ゴールデンウィークなのかい (福本 先生の作品のお話 (アカギなど)",
+        "section": ""
+      },
+      {
+        "time": "36:07",
+        "title": "惇太さんと小松さんの共通点)",
         "section": ""
       },
       {
         "time": "38:36",
-        "title": "雀魂 5 周年記念ムービー (最近 解像度が上がった出来事は？)(41:37 〜マキ バオー cv 惇太さん)",
+        "title": "雀魂 5 周年記念ムービー (最近 解像度が上がった出来事は？)",
+        "section": "ふつおた"
+      },
+      {
+        "time": "41:37",
+        "title": "マキバオー cv 惇太さん",
         "section": "ふつおた"
       },
       {
@@ -2291,14 +2382,14 @@
       },
       {
         "time": "1:00:17",
-        "title": "エンディング #64 2024/5/15</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#64",
-    "url": "https://www.youtube.com/live/CAkEAqRV7w0?si=VZLG9ZfPNWMS96al",
+    "url": "https://www.youtube.com/live/CAkEAqRV7w0?si=VZLG9ZfPNWMS96al0",
     "entries": [
       {
         "time": "0:42",
@@ -2327,14 +2418,14 @@
       },
       {
         "time": "57:47",
-        "title": "エンディング #65 2024/5/29</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#65",
-    "url": "https://www.youtube.com/live/0ektGPw9i0E?si=z1awQ80w23k99r8I",
+    "url": "https://www.youtube.com/live/0ektGPw9i0E?si=z1awQ80w23k99r8I0",
     "entries": [
       {
         "time": "0:32",
@@ -2343,38 +2434,78 @@
       },
       {
         "time": "4:30",
-        "title": "ドラマ ｢だが情熱はある｣ のお話 (10:29 〜似てないバージョンのオードリ ー /12:50 〜なんで山里さんと若林さんがメ イン？(たりないふたり)/21:54 〜なりきり 演技は難しい /26:51 〜声優と芸人の違い /",
+        "title": "ドラマ ｢だが情熱はある｣ のお話",
+        "section": ""
+      },
+      {
+        "time": "10:29",
+        "title": "似てないバージョンのオードリー",
+        "section": ""
+      },
+      {
+        "time": "12:50",
+        "title": "なんで山里さんと若林さんがメイ ン？(たりないふたり)",
+        "section": ""
+      },
+      {
+        "time": "21:54",
+        "title": "なりきり演技は難しい",
+        "section": ""
+      },
+      {
+        "time": "26:51",
+        "title": "声優と芸人の違い",
         "section": ""
       },
       {
         "time": "34:03",
-        "title": "TikTok の指パッチンの人 /",
+        "title": "TikTok の指パッチンの人",
         "section": ""
       },
       {
         "time": "57:32",
-        "title": "自称声優)",
+        "title": "自称声優",
         "section": ""
       },
       {
         "time": "1:00:14",
-        "title": "エンディング #66 2024/6/5</span",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#66",
-    "url": "https://www.youtube.com/live/VeNUXqpGLTc?si=PSmV7TJEpKjvy6VZ",
+    "url": "https://www.youtube.com/live/VeNUXqpGLTc?si=PSmV7TJEpKjvy6VZ0",
     "entries": [
       {
         "time": "0:56",
-        "title": "2024 年半分終了(4:38 〜 NHK ドキ ュメンタリー番組 ｢未解決事件｣ /8:39 〜大 人気漫画のリアルタイム温度感を伝えたい 惇太さん (ワンピース､ ドラゴンボールな ど)/19:31 〜小松さんにワンピース考察を発 表される惇太さん)",
+        "title": "2024 年半分終了",
+        "section": ""
+      },
+      {
+        "time": "4:38",
+        "title": "NHK ドキュメンタリー番組 ｢未解 決事件｣",
+        "section": ""
+      },
+      {
+        "time": "8:39",
+        "title": "大人気漫画のリアルタイム温度感を 伝えたい惇太さん (ワンピース､ ドラゴンボ ールなど)",
+        "section": ""
+      },
+      {
+        "time": "19:31",
+        "title": "小松さんにワンピース考察を発表さ れる惇太さん",
         "section": ""
       },
       {
         "time": "23:04",
-        "title": "ワンピースのこれどう思う？(ネタ バレあり､ ウォーターセブン編 /32:25 〜読 者寺島惇太少年 )",
+        "title": "ワンピースのこれどう思う？(ネタ バレあり､ ウォーターセブン編",
+        "section": ""
+      },
+      {
+        "time": "32:25",
+        "title": "読者寺島惇太少年",
         "section": ""
       },
       {
@@ -2389,28 +2520,48 @@
       },
       {
         "time": "1:04:34",
-        "title": "エンディング #67 2024/7/3</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#67",
-    "url": "https://www.youtube.com/live/xW3gWpFQNqQ?si=EgVbLJceNFOGQ43Y",
+    "url": "https://www.youtube.com/live/xW3gWpFQNqQ?si=EgVbLJceNFOGQ43Y1",
     "entries": [
       {
         "time": "1:43",
-        "title": "新紙幣もう流通してるらしいよ (炎上を恐れる惇太さん /8:56 〜渋沢栄一さ ん (1 万円札)/14:28 〜津田梅子さん (5000 円札)/18:18 〜北里柴三郎さん (1000 円札)/",
+        "title": "新紙幣もう流通してるらしいよ (炎上を恐れる惇太さん)",
+        "section": ""
+      },
+      {
+        "time": "8:56",
+        "title": "渋沢栄一さん (1 万円札)",
+        "section": ""
+      },
+      {
+        "time": "14:28",
+        "title": "津田梅子さん (5000 円札)",
+        "section": ""
+      },
+      {
+        "time": "18:18",
+        "title": "北里柴三郎さん (1000 円札)",
         "section": ""
       },
       {
         "time": "21:12",
-        "title": "おさらい)",
+        "title": "おさらい",
         "section": ""
       },
       {
         "time": "24:12",
-        "title": "好きなホラー作品 (25:56 〜か まいたちの夜)",
+        "title": "好きなホラー作品",
+        "section": "ふつおた"
+      },
+      {
+        "time": "25:56",
+        "title": "かまいたちの夜",
         "section": "ふつおた"
       },
       {
@@ -2420,7 +2571,17 @@
       },
       {
         "time": "45:50",
-        "title": "お誕生日絡みで印象に残ってい るエピソード､ プレゼント (52:34 〜プ レゼント買ってたのに持ってくるの忘れた 深町さん /53:53 〜お土産渡せなくて自分で 食べる (困ったら小松さんに)",
+        "title": "お誕生日絡みで印象に残ってい るエピソード､ プレゼント",
+        "section": "ふつおた"
+      },
+      {
+        "time": "52:34",
+        "title": "プレゼント買ってたのに持ってく るの忘れた深町さん",
+        "section": "ふつおた"
+      },
+      {
+        "time": "53:53",
+        "title": "お土産渡せなくて自分で食べる (困 ったら小松さんに)",
         "section": "ふつおた"
       },
       {
@@ -2430,14 +2591,14 @@
       },
       {
         "time": "1:02:01",
-        "title": "エンディング #68 2024/7/17",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#68",
-    "url": "https://www.youtube.com/live/noIh6Y19Dro?si=XU143bQRTpExLPMG",
+    "url": "https://www.youtube.com/live/noIh6Y19Dro?si=XU143bQRTpExLPMG0",
     "entries": [
       {
         "time": "0:29",
@@ -2446,12 +2607,37 @@
       },
       {
         "time": "3:11",
-        "title": "間に合わなかったダイエット (6:20 拳に重みがあって素敵だった /7:02 〜改善の 余地 (男性ホルモン)",
+        "title": "間に合わなかったダイエット",
+        "section": ""
+      },
+      {
+        "time": "6:20",
+        "title": "拳に重みがあって素敵だった",
+        "section": ""
+      },
+      {
+        "time": "7:02",
+        "title": "改善の余地 (男性ホルモン)",
         "section": ""
       },
       {
         "time": "17:33",
-        "title": "こだむろ (｢惇太くんと人生を 1 日交換してみたい｣ /20:50 〜心理戦ゲーム で意識してること /33:18 〜頭いい印象の人 (小松さん､ 市川太一さん､ 千春さん､ 高塚 さんなど)/35:48 〜心理戦ゲームが強い宗 悟さん)",
+        "title": "こだむろ (｢惇太くんと人生を 1 日交換してみたい｣",
+        "section": "ふつおた"
+      },
+      {
+        "time": "20:50",
+        "title": "心理戦ゲームで意識してること",
+        "section": "ふつおた"
+      },
+      {
+        "time": "33:18",
+        "title": "頭いい印象の人 (小松さん､ 市川太 一さん､ 千春さん､ 高塚さんなど)",
+        "section": "ふつおた"
+      },
+      {
+        "time": "35:48",
+        "title": "心理戦ゲームが強い仲村宗悟さん",
         "section": "ふつおた"
       },
       {
@@ -2461,55 +2647,115 @@
       },
       {
         "time": "40:56",
-        "title": "惇太さんのご両親はゲームセン ターに対してどのように考えてる？ (50:25 〜空間認識能力 /50:07 〜競馬の調 子 /54:01 〜宝くじは努力)",
+        "title": "惇太さんのご両親はゲームセン ターに対してどのように考えてる？",
+        "section": "ふつおた"
+      },
+      {
+        "time": "50:25",
+        "title": "空間認識能力",
+        "section": "ふつおた"
+      },
+      {
+        "time": "50:07",
+        "title": "競馬の調子",
+        "section": "ふつおた"
+      },
+      {
+        "time": "54:01",
+        "title": "宝くじは努力)",
         "section": "ふつおた"
       },
       {
         "time": "1:03:20",
-        "title": "エンディング #69 2024/8/7",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#69",
-    "url": "https://www.youtube.com/live/PbtHHjBwQ3o?si=Qm5_rARTSqkU3HJM",
+    "url": "https://www.youtube.com/live/PbtHHjBwQ3o?si=Qm5_rARTSqkU3HJM0",
     "entries": [
       {
         "time": "0:30",
-        "title": "機材トラブル (1:52 〜パチンコと因 果関係 /4:15 〜パソコン自作 )",
+        "title": "機材トラブル",
+        "section": ""
+      },
+      {
+        "time": "1:52",
+        "title": "パチンコと因果関係",
+        "section": ""
+      },
+      {
+        "time": "4:15",
+        "title": "パソコン自作",
         "section": ""
       },
       {
         "time": "8:05",
-        "title": "雷と雨 (9:30 〜備えあれば憂 いなしの擬人化 (傘)/12:03 〜マネージャー さんからの指摘 /14:26 〜スカッとジャパン)",
+        "title": "雷と雨",
+        "section": ""
+      },
+      {
+        "time": "9:30",
+        "title": "備えあれば憂いなしの擬人化 (傘)",
+        "section": ""
+      },
+      {
+        "time": "12:03",
+        "title": "マネージャーさんからの指摘",
+        "section": ""
+      },
+      {
+        "time": "14:26",
+        "title": "スカッとジャパン",
         "section": ""
       },
       {
         "time": "21:23",
-        "title": "お化けと宇宙人はどちらが怖 い？(23:02 〜 1 人賛否 (おばけの方が怖い派 )/27:32 〜宇宙人の方が怖い派 /",
+        "title": "お化けと宇宙人はどちらが怖 い？",
+        "section": "ふつおた"
+      },
+      {
+        "time": "23:02",
+        "title": "1 人賛否 (おばけの方が怖い派 )",
+        "section": "ふつおた"
+      },
+      {
+        "time": "27:32",
+        "title": "宇宙人の方が怖い派",
         "section": "ふつおた"
       },
       {
         "time": "32:08",
-        "title": "惇太さん本人の意見)",
+        "title": "惇太さん本人の意見",
         "section": "ふつおた"
       },
       {
         "time": "45:28",
-        "title": "ご両親と同じだなと感じる苦手 なもの (猫への興味 /53:46 〜黒ねこサンゴ ロウ /54:30 〜世界猫の日!?(シンクロニシ ティ)",
+        "title": "ご両親と同じだなと感じる苦手 なもの (猫への興味",
+        "section": "ふつおた"
+      },
+      {
+        "time": "53:46",
+        "title": "黒ねこサンゴロウ",
+        "section": "ふつおた"
+      },
+      {
+        "time": "54:30",
+        "title": "世界猫の日!?(シンクロニシティ)",
         "section": "ふつおた"
       },
       {
         "time": "59:21",
-        "title": "エンディング #70 2024/8/21",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#70",
-    "url": "https://www.youtube.com/live/vpBf6SL2W8I?si=2eVUKThp0sJYcyyC",
+    "url": "https://www.youtube.com/live/vpBf6SL2W8I?si=2eVUKThp0sJYcyyC0",
     "entries": [
       {
         "time": "0:29",
@@ -2518,12 +2764,27 @@
       },
       {
         "time": "4:02",
-        "title": "免許更新 (16:44 〜都道府県 別交通事故 /25:59 〜小松さんの運転)",
+        "title": "免許更新",
+        "section": ""
+      },
+      {
+        "time": "16:44",
+        "title": "都道府県別交通事故",
+        "section": ""
+      },
+      {
+        "time": "25:59",
+        "title": "小松さんの運転",
         "section": ""
       },
       {
         "time": "30:12",
-        "title": "キンドラ舞台挨拶 (33:46 〜嘘 予告)",
+        "title": "キンドラ舞台挨拶",
+        "section": "ふつおた"
+      },
+      {
+        "time": "33:46",
+        "title": "嘘予告",
         "section": "ふつおた"
       },
       {
@@ -2538,14 +2799,14 @@
       },
       {
         "time": "58:43",
-        "title": "エンディング #71 2024/9/18",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#71",
-    "url": "https://www.youtube.com/live/uSPKx6FTAAk?si=EhC8XnOL8hisjkoW",
+    "url": "https://www.youtube.com/live/uSPKx6FTAAk?si=EhC8XnOL8hisjkoW0",
     "entries": [
       {
         "time": "0:45",
@@ -2554,7 +2815,17 @@
       },
       {
         "time": "6:33",
-        "title": "最近の振り返り (ゴーラス /7:50 〜 人生で 1 番スベった (5､ ６年前のイベント でもスベった話)/20:08 〜フタエノキワミ謎 解き編)",
+        "title": "最近の振り返り (ゴーラス",
+        "section": ""
+      },
+      {
+        "time": "7:50",
+        "title": "人生で 1 番スベった (5､ ６年前のイ ベントでもスベった話)",
+        "section": ""
+      },
+      {
+        "time": "20:08",
+        "title": "フタエノキワミ謎解き編",
         "section": ""
       },
       {
@@ -2564,15 +2835,30 @@
       },
       {
         "time": "1:06:12",
-        "title": "エンディング #72 2024/10/2",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#72",
-    "url": "https://www.youtube.com/live/L8NtdXSihWA?si=X80mUA9dGE0RgtCU0:35〜10月突入(体調不良/3:31〜サイクリングマシン(股痛くならずに漕ぎ切る方法ある？)9:08〜文豪､そして殺人鬼完結編(本番､稽古中の裏話/アドリブ)",
+    "url": "https://www.youtube.com/live/L8NtdXSihWA?si=X80mUA9dGE0RgtCU0",
     "entries": [
+      {
+        "time": "0:35",
+        "title": "10月突入 (体調不良",
+        "section": ""
+      },
+      {
+        "time": "3:31",
+        "title": "サイクリングマシン (股痛くなら ずに漕ぎ切る方法ある？)",
+        "section": ""
+      },
+      {
+        "time": "9:08",
+        "title": "文豪､ そして殺人鬼完結編 (本 番､ 稽古中の裏話 / アドリブ)",
+        "section": ""
+      },
       {
         "time": "27:55",
         "title": "洗車の頻度",
@@ -2580,7 +2866,7 @@
       },
       {
         "time": "34:52",
-        "title": "少しでも自分に自信を持てるよ うにする方法 (声優のお仕事のお話 /",
+        "title": "少しでも自分に自信を持てるよ うにする方法 (声優のお仕事のお話)",
         "section": "ふつおた"
       },
       {
@@ -2590,18 +2876,23 @@
       },
       {
         "time": "1:03:36",
-        "title": "エンディング (お仕事告知) #73 2024/10/16",
+        "title": "エンディング (お仕事告知)",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#73",
-    "url": "https://www.youtube.com/live/3uHq0leDjpM?si=7PvxlTS3uq9F8n-g",
+    "url": "https://www.youtube.com/live/3uHq0leDjpM?si=7PvxlTS3uq9F8n-g2",
     "entries": [
       {
         "time": "2:42",
-        "title": "SePTENTRION バーチャルライブ (5:02 〜おいおい寺島座長)",
+        "title": "SePTENTRION バーチャルライブ",
+        "section": ""
+      },
+      {
+        "time": "5:02",
+        "title": "おいおい寺島座長",
         "section": ""
       },
       {
@@ -2611,12 +2902,12 @@
       },
       {
         "time": "15:52",
-        "title": "フォアレーゼン鳥取 (前乗り､ サウナとキングオブコントのお話 /",
+        "title": "フォアレーゼン鳥取 (前乗り､ サウナとキングオブコントのお話",
         "section": ""
       },
       {
         "time": "37:01",
-        "title": "朗読の内容)",
+        "title": "朗読の内容",
         "section": ""
       },
       {
@@ -2626,14 +2917,14 @@
       },
       {
         "time": "1:05:07",
-        "title": "エンディング #74(雀 魂特別編)2024/10/30",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
-    "episode": "#74 (雀",
-    "url": "https://www.youtube.com/live/n6Jr3xaUc6Q?si=L05Uxy9oeoBzCecO",
+    "episode": "#74",
+    "url": "https://www.youtube.com/live/n6Jr3xaUc6Q?si=L05Uxy9oeoBzCecO2",
     "entries": [
       {
         "time": "2:45",
@@ -2642,7 +2933,17 @@
       },
       {
         "time": "7:30",
-        "title": "普通に喋ります (シェアードユニバ ース作品 (アンナチュラル)/15:31 〜マイフ ァミリー /26:44 〜ラストマイル)",
+        "title": "普通に喋ります (シェアードユニバ ース作品 (アンナチュラル)",
+        "section": ""
+      },
+      {
+        "time": "15:31",
+        "title": "マイファミリー",
+        "section": ""
+      },
+      {
+        "time": "26:44",
+        "title": "ラストマイル",
         "section": ""
       },
       {
@@ -2652,12 +2953,37 @@
       },
       {
         "time": "38:14",
-        "title": "画面復帰 麻雀スタート (引き続 きラストマイル /42:46 〜ラストマイルはミ ルクボーイ /45:32 〜\"それ\"がいる森 /",
+        "title": "画面復帰 麻雀スタート (引き続 きラストマイル",
+        "section": ""
+      },
+      {
+        "time": "42:46",
+        "title": "ラストマイルはミルクボーイ",
+        "section": ""
+      },
+      {
+        "time": "45:32",
+        "title": "\"それ\"がいる森",
         "section": ""
       },
       {
         "time": "48:39",
-        "title": "事故物件恐い間取り /51:35 〜きさ らぎ駅 /1:03:37 〜いまだに涙が流れない惇 太さん /1:06:31 〜泣きゲー (ギャルゲー)",
+        "title": "事故物件恐い間取り",
+        "section": ""
+      },
+      {
+        "time": "51:35",
+        "title": "きさらぎ駅",
+        "section": ""
+      },
+      {
+        "time": "1:03:37",
+        "title": "いまだに涙が流れない惇太さん",
+        "section": ""
+      },
+      {
+        "time": "1:06:31",
+        "title": "泣きゲー (ギャルゲー)",
         "section": ""
       },
       {
@@ -2667,7 +2993,22 @@
       },
       {
         "time": "1:25:41",
-        "title": "月曜日の友達 (子供の頃の忘れ られない出会い /1:30:33 〜幼馴染の女の子 が 5､ 6 人いたラブコメ主人公の惇太さん (バレンタインエピソード )/1:41:29 〜遊 戯王カードをパクった大学生)/1:46:02 〜ゲ ームボーイの遊戯王カセット紛失？)",
+        "title": "月曜日の友達 (子供の頃の忘れ られない出会い",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:30:33",
+        "title": "幼馴染の女の子が 5､ 6 人いたラ ブコメ主人公の惇太さん (バレンタインエピ ソード )",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:41:29",
+        "title": "遊戯王カードをパクった大学生)",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:46:02",
+        "title": "ゲームボーイの遊戯王カセット 紛失？)",
         "section": "ふつおた"
       },
       {
@@ -2677,33 +3018,78 @@
       },
       {
         "time": "2:11:39",
-        "title": "tatsuya saiki さんの ｢オレン ジ｣(勘違いしていたこと！/2:14:52 〜マシ ュマロは喉にいい /2:18:20 〜ポケモンの隠 し要素 /2:23:25 〜インフル /2:40:47 〜無 水カレー )",
+        "title": "tatsuya saiki さんの ｢オレン ジ｣(勘違いしていたこと！",
+        "section": "ふつおた"
+      },
+      {
+        "time": "2:14:52",
+        "title": "マシュマロは喉にいい",
+        "section": "ふつおた"
+      },
+      {
+        "time": "2:18:20",
+        "title": "ポケモンの隠し要素",
+        "section": "ふつおた"
+      },
+      {
+        "time": "2:23:25",
+        "title": "インフル",
+        "section": "ふつおた"
+      },
+      {
+        "time": "2:40:47",
+        "title": "無水カレー",
         "section": "ふつおた"
       },
       {
         "time": "2:52:02",
-        "title": "エンディング #75 2024/11/8",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#75",
-    "url": "https://www.youtube.com/live/bwq8fR1BUm8?si=TfM6J8nDkCoYVXz3",
+    "url": "https://www.youtube.com/live/bwq8fR1BUm8?si=TfM6J8nDkCoYVXz31",
     "entries": [
       {
         "time": "1:38",
-        "title": "11/8 は室井慎次 生き続ける者先行上 映開始日 (3:37 〜国際映画祭 キンプ リ)",
+        "title": "11/8 は室井慎次 生き続ける者先行上 映開始日",
+        "section": ""
+      },
+      {
+        "time": "3:37",
+        "title": "国際映画祭 キンプリ",
         "section": ""
       },
       {
         "time": "6:25",
-        "title": "26 年前は日本中これだった (踊る大 捜査線のお話 /21:43 〜ずん散歩で踊るの話 カット /27:39 〜ネタバレ踏みたくないので 代行ツイート)",
+        "title": "26 年前は日本中これだった (踊る大 捜査線のお話)",
+        "section": ""
+      },
+      {
+        "time": "21:43",
+        "title": "ずん散歩で踊るの話カット",
+        "section": ""
+      },
+      {
+        "time": "27:39",
+        "title": "ネタバレ踏みたくないので代行ツ イート",
         "section": ""
       },
       {
         "time": "31:42",
-        "title": "映画好きになったかもしれない (き っかけ /36:47 〜 MARVEL 作品 /40:43 〜映 画レビュー系 YouTuber さん (バトル・ロワ イヤル)",
+        "title": "映画好きになったかもしれない (き っかけ",
+        "section": ""
+      },
+      {
+        "time": "36:47",
+        "title": "MARVEL 作品",
+        "section": ""
+      },
+      {
+        "time": "40:43",
+        "title": "映画レビュー系 YouTuber さん (バ トル・ロワイヤル)",
         "section": ""
       },
       {
@@ -2713,12 +3099,17 @@
       },
       {
         "time": "1:09:17",
-        "title": "今でも覚えている学校の先生 (給食の残酷エピソード /1:17:26 〜中学 の英語の先生)",
+        "title": "今でも覚えている学校の先生 (給食の残酷エピソード",
+        "section": ""
+      },
+      {
+        "time": "1:17:26",
+        "title": "中学の英語の先生)",
         "section": ""
       },
       {
         "time": "1:23:45",
-        "title": "怖がられているのかなと思っ た経験はある？(男子の少ない文系クラス /",
+        "title": "怖がられているのかなと思っ た経験はある？(男子の少ない文系クラス)",
         "section": ""
       },
       {
@@ -2728,28 +3119,48 @@
       },
       {
         "time": "1:37:09",
-        "title": "エンディング #76 2024/11/20",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#76",
-    "url": "https://www.youtube.com/live/S6L14eaeqxU?si=yNQGH2mpaYSLCZk9",
+    "url": "https://www.youtube.com/live/S6L14eaeqxU?si=yNQGH2mpaYSLCZk91",
     "entries": [
       {
         "time": "1:33",
-        "title": "映画､ ドラマ､ みてますか？ (HERO/12:27 〜毎日楽しい惇太さん /",
+        "title": "映画､ ドラマ､ みてますか？ (HERO",
+        "section": ""
+      },
+      {
+        "time": "12:27",
+        "title": "毎日楽しい惇太さん",
         "section": ""
       },
       {
         "time": "13:36",
-        "title": "ドクター X/16:12 〜名探偵コナン /",
+        "title": "ドクター X",
+        "section": ""
+      },
+      {
+        "time": "16:12",
+        "title": "名探偵コナン",
         "section": ""
       },
       {
         "time": "18:22",
-        "title": "ワンピース /21:41 〜グランメゾン 東京 /23:51 〜アンナチュラル (登場人物た ちの恋愛､ 恋リア､ あいのり)",
+        "title": "ワンピース",
+        "section": ""
+      },
+      {
+        "time": "21:41",
+        "title": "グランメゾン東京",
+        "section": ""
+      },
+      {
+        "time": "23:51",
+        "title": "アンナチュラル (登場人物たちの恋 愛､ 恋リア､ あいのり)",
         "section": ""
       },
       {
@@ -2759,7 +3170,12 @@
       },
       {
         "time": "49:02",
-        "title": "1 組目 /51:52 〜 2 組目)",
+        "title": "1 組目",
+        "section": ""
+      },
+      {
+        "time": "51:52",
+        "title": "2 組目",
         "section": ""
       },
       {
@@ -2769,19 +3185,24 @@
       },
       {
         "time": "1:02:36",
-        "title": "結婚式でキミハレ (テレビや 街中で自分の曲や担当キャラの曲が流れて きた時どう思う？/1:10:31 〜曲のバズる要 素)",
+        "title": "結婚式でキミハレ (テレビや 街中で自分の曲や担当キャラの曲が流れて きた時どう思う？",
+        "section": ""
+      },
+      {
+        "time": "1:10:31",
+        "title": "曲のバズる要素",
         "section": ""
       },
       {
         "time": "1:14:32",
-        "title": "エンディング #77 2024/12/4",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#77",
-    "url": "https://www.youtube.com/live/7-g2Fh8cqDU?si=6EZ0zoXUebNHhBT4",
+    "url": "https://www.youtube.com/live/7-g2Fh8cqDU?si=6EZ0zoXUebNHhBT40",
     "entries": [
       {
         "time": "0:54",
@@ -2800,34 +3221,79 @@
       },
       {
         "time": "6:24",
-        "title": "1st フルアルバム ｢Riffle｣､ アル バムタイトルに込められた想い (17:10 〜犬 系彼女破局 /19:29 〜ネットニュースのアン テナ )",
+        "title": "1st フルアルバム ｢Riffle｣､ アル バムタイトルに込められた想い",
+        "section": ""
+      },
+      {
+        "time": "17:10",
+        "title": "犬系彼女破局",
+        "section": ""
+      },
+      {
+        "time": "19:29",
+        "title": "ネットニュースのアンテナ",
         "section": ""
       },
       {
         "time": "23:01",
-        "title": "踊る大捜査線最新情報 (26:26 〜踊る大捜査線新作公開決定 /",
+        "title": "踊る大捜査線最新情報",
+        "section": ""
+      },
+      {
+        "time": "26:26",
+        "title": "踊る大捜査線新作公開決定",
         "section": ""
       },
       {
         "time": "29:38",
-        "title": "FINAL 詐欺多くない？)",
+        "title": "FINAL 詐欺多くない？",
         "section": ""
       },
       {
         "time": "40:36",
-        "title": "HERO を見て気付いたこと (47:46 〜雨宮！麻木！/53:09 〜はいどー ぞ /58:53 〜劇場版あいの里 /1:02:38 〜金 田一と工藤新一 /1:05:21 〜名探偵コナン次 の舞台は長野 /1:07:47 〜長野の方言 )",
+        "title": "HERO を見て気付いたこと",
+        "section": ""
+      },
+      {
+        "time": "47:46",
+        "title": "雨宮！麻木！",
+        "section": ""
+      },
+      {
+        "time": "53:09",
+        "title": "はいどーぞ",
+        "section": ""
+      },
+      {
+        "time": "58:53",
+        "title": "劇場版あいの里",
+        "section": ""
+      },
+      {
+        "time": "1:02:38",
+        "title": "金田一と工藤新一",
+        "section": ""
+      },
+      {
+        "time": "1:05:21",
+        "title": "名探偵コナン次の舞台は長野",
+        "section": ""
+      },
+      {
+        "time": "1:07:47",
+        "title": "長野の方言",
         "section": ""
       },
       {
         "time": "1:13:15",
-        "title": "エンディング (土佐弁) #78 2024/12/18",
+        "title": "エンディング (土佐弁)",
         "section": ""
       }
     ]
   },
   {
     "episode": "#78",
-    "url": "https://www.youtube.com/live/3S-kcreoPjk?si=f_-9SkyGQd-GHD7I",
+    "url": "https://www.youtube.com/live/3S-kcreoPjk?si=f_-9SkyGQd-GHD7I1",
     "entries": [
       {
         "time": "1:51",
@@ -2846,12 +3312,27 @@
       },
       {
         "time": "29:43",
-        "title": "俺を知ってくれ幕末編 (床冷た くなかった？/ ネタバレあり /32:58 〜アク ション時代に床で寝たことがある小松さん /",
+        "title": "俺を知ってくれ幕末編 (床冷た くなかった？/ ネタバレあり",
+        "section": ""
+      },
+      {
+        "time": "32:58",
+        "title": "アクション時代に床で寝たことが ある小松さん",
         "section": ""
       },
       {
         "time": "34:28",
-        "title": "捌けるタイミング /40:03 〜セリフ を覚えるパート /46:40 〜オールドクター X/",
+        "title": "捌けるタイミング",
+        "section": ""
+      },
+      {
+        "time": "40:03",
+        "title": "セリフを覚えるパート",
+        "section": ""
+      },
+      {
+        "time": "46:40",
+        "title": "オールドクター X",
         "section": ""
       },
       {
@@ -2861,14 +3342,14 @@
       },
       {
         "time": "1:03:39",
-        "title": "エンディング #79 2025/1/15",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#79",
-    "url": "https://www.youtube.com/live/74SwVPwOSXU?si=KYpSQypFV-xNkKk8",
+    "url": "https://www.youtube.com/live/74SwVPwOSXU?si=KYpSQypFV-xNkKk80",
     "entries": [
       {
         "time": "0:30",
@@ -2877,17 +3358,42 @@
       },
       {
         "time": "1:54",
-        "title": "新年早々ピンチ (大きな決断 /",
+        "title": "新年早々ピンチ (大きな決断",
         "section": ""
       },
       {
         "time": "6:22",
-        "title": "au ヘビーユーザー発表 (使用期間)/",
+        "title": "au ヘビーユーザー発表 (使用期間)",
         "section": ""
       },
       {
         "time": "11:17",
-        "title": "使ってないタブレット /18:10 〜何に 変えるか決めます /27:16 〜 Android マウン ト /30:34 〜初期不良発表 /35:50 〜カメラ が起動しない /56:57 〜 スマホ決定 )",
+        "title": "使ってないタブレット",
+        "section": ""
+      },
+      {
+        "time": "18:10",
+        "title": "何に変えるか決めます",
+        "section": ""
+      },
+      {
+        "time": "27:16",
+        "title": "Android マウント",
+        "section": ""
+      },
+      {
+        "time": "30:34",
+        "title": "初期不良発表",
+        "section": ""
+      },
+      {
+        "time": "35:50",
+        "title": "カメラが起動しない",
+        "section": ""
+      },
+      {
+        "time": "56:57",
+        "title": "スマホ決定 )",
         "section": ""
       },
       {
@@ -2912,14 +3418,14 @@
       },
       {
         "time": "1:19:00",
-        "title": "エンディング #80 2025/1/29",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#80",
-    "url": "https://www.youtube.com/live/0K4LyuL_9nU?si=qIHs3VT71ejAsjZS",
+    "url": "https://www.youtube.com/live/0K4LyuL_9nU?si=qIHs3VT71ejAsjZS1",
     "entries": [
       {
         "time": "1:17",
@@ -2928,7 +3434,12 @@
       },
       {
         "time": "3:27",
-        "title": "お酒飲みよふすた (お酒を飲むと 声がでかくなる /6:17 〜小松バンバン (パチ ンカーの癖)",
+        "title": "お酒飲みよふすた (お酒を飲むと 声がでかくなる",
+        "section": ""
+      },
+      {
+        "time": "6:17",
+        "title": "小松バンバン (パチ ンカーの癖)",
         "section": ""
       },
       {
@@ -3088,7 +3599,12 @@
       },
       {
         "time": "41:24",
-        "title": "大山のぶ代さん時代のドラえもん で好きな映画 (44:39 コメ欄に小松さん)",
+        "title": "大山のぶ代さん時代のドラえもん で好きな映画",
+        "section": ""
+      },
+      {
+        "time": "44:39",
+        "title": "コメ欄に小松さん",
         "section": ""
       },
       {
@@ -3118,14 +3634,14 @@
       },
       {
         "time": "1:28:31",
-        "title": "エンディング [newpage] [chapter:#81 〜#90] #81 2025/2/5</span",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#81",
-    "url": "https://www.youtube.com/live/kv33U1bMqFI?si=OPhZsU0gQahFBABC",
+    "url": "https://www.youtube.com/live/kv33U1bMqFI?si=OPhZsU0gQahFBABC2",
     "entries": [
       {
         "time": "2:20",
@@ -3139,53 +3655,118 @@
       },
       {
         "time": "6:31",
-        "title": "寒い (雪 / 高知ファイナル /",
+        "title": "寒い (雪 / 高知ファイナル",
         "section": ""
       },
       {
         "time": "9:40",
-        "title": "スタッドレスタイヤ /13:25 〜ウィ ンタースポーツ /16:42 〜スリル (絶叫マシ ン) とギャンブル /22:45 〜最悪を予測して 生きる)",
+        "title": "スタッドレスタイヤ",
+        "section": ""
+      },
+      {
+        "time": "13:25",
+        "title": "ウィンタースポーツ",
+        "section": ""
+      },
+      {
+        "time": "16:42",
+        "title": "スリル (絶叫マシン) とギャンブル",
+        "section": ""
+      },
+      {
+        "time": "22:45",
+        "title": "最悪を予測して生きる",
         "section": ""
       },
       {
         "time": "43:41",
-        "title": "2 ヶ月の長期休暇があったら何 する？(学生時代のお話など /1:02:01 〜自己 PR/1:10:11 〜 2 ヶ月の休みでやること /",
+        "title": "2 ヶ月の長期休暇があったら何 する？(学生時代のお話など",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:02:01",
+        "title": "自己 PR",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:10:11",
+        "title": "2 ヶ月の休みでやること",
         "section": "ふつおた"
       },
       {
         "time": "1:16:52",
-        "title": "惇太さんが億万長者だったら /",
+        "title": "惇太さんが億万長者だったら",
         "section": "ふつおた"
       },
       {
         "time": "1:24:01",
-        "title": "地方でしか食べられないもの /",
+        "title": "地方でしか食べられないもの",
         "section": "ふつおた"
       },
       {
         "time": "1:34:56",
-        "title": "ハンバーグ屋さん /1:38:19 〜び っくりドンキーのでっかいメニュー表 (ポイ ントカードスマホ紐付け)/1:53:41 〜マイル (飛行機 ))",
+        "title": "ハンバーグ屋さん",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:38:19",
+        "title": "びっくりドンキーのでっかいメニ ュー表 (ポイントカードスマホ紐付け)",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:53:41",
+        "title": "マイル (飛行機 ))",
         "section": "ふつおた"
       },
       {
         "time": "1:58:45",
-        "title": "エンディング #82 2025/2/19</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#82",
-    "url": "https://www.youtube.com/live/NAcGu3qqC90?si=B_06dXsNgkN-D-2W1:25〜言い切ります(オンラインカジノやってません/10:25〜古の迷惑メールあるある/12:23〜高額当選/14:08〜古のネット民はネットで解決)",
+    "url": "https://www.youtube.com/live/NAcGu3qqC90?si=B_06dXsNgkN-D-2W1",
     "entries": [
       {
+        "time": "1:25",
+        "title": "言い切ります (オンラインカジノやっ てません",
+        "section": ""
+      },
+      {
+        "time": "10:25",
+        "title": "古の迷惑メールあるある",
+        "section": ""
+      },
+      {
+        "time": "12:23",
+        "title": "高額当選",
+        "section": ""
+      },
+      {
+        "time": "14:08",
+        "title": "古のネット民はネットで解決",
+        "section": ""
+      },
+      {
         "time": "26:49",
-        "title": "ゴリチョコ (先輩後輩の間柄で の友情 /36:00 〜 timelesz project/",
+        "title": "ゴリチョコ (先輩後輩の間柄で の友情",
+        "section": ""
+      },
+      {
+        "time": "36:00",
+        "title": "timelesz project",
         "section": ""
       },
       {
         "time": "40:54",
-        "title": "映画とかのメイキング (裏側) 見な い惇太さん /42:23 〜エヴァ､ ドラゴンボー ル)",
+        "title": "映画とかのメイキング (裏側) 見な い惇太さん",
+        "section": ""
+      },
+      {
+        "time": "42:23",
+        "title": "エヴァ､ ドラゴンボール)",
         "section": ""
       },
       {
@@ -3195,19 +3776,39 @@
       },
       {
         "time": "1:06:04",
-        "title": "髪色をハイトーンにしたこ と､ してみたい願望はある？(黒髪だと真面 目に見える？/1:09:55 〜金髪ピアスだった ら…/1:11:07 〜白髪染め /1:11:57 〜髪色と印 象 /1:13:59 〜タメ口の店員､ 洋服屋さんの LINE )",
+        "title": "髪色をハイトーンにしたこ と､ してみたい願望はある？(黒髪だと真面 目に見える？",
+        "section": ""
+      },
+      {
+        "time": "1:09:55",
+        "title": "金髪ピアスだったら…",
+        "section": ""
+      },
+      {
+        "time": "1:11:07",
+        "title": "白髪染め",
+        "section": ""
+      },
+      {
+        "time": "1:11:57",
+        "title": "髪色と印象",
+        "section": ""
+      },
+      {
+        "time": "1:13:59",
+        "title": "タメ口の店員､ 洋服屋さんの LINE",
         "section": ""
       },
       {
         "time": "1:22:55",
-        "title": "エンディング #83 2025/3/5</span",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#83",
-    "url": "https://www.youtube.com/live/4MmrFLfaFxY?si=nLMxyki5Ak0ThEsT",
+    "url": "https://www.youtube.com/live/4MmrFLfaFxY?si=nLMxyki5Ak0ThEsT0",
     "entries": [
       {
         "time": "0:32",
@@ -3216,7 +3817,12 @@
       },
       {
         "time": "2:31",
-        "title": "ファミマの焼き鳥 /3:55 〜カイジ /",
+        "title": "ファミマの焼き鳥",
+        "section": ""
+      },
+      {
+        "time": "3:55",
+        "title": "カイジ",
         "section": ""
       },
       {
@@ -3226,7 +3832,17 @@
       },
       {
         "time": "7:24",
-        "title": "音楽朗読劇 仮面の男 (20:27 〜やっ てみての感想 /22:31 〜消費税)",
+        "title": "音楽朗読劇 仮面の男",
+        "section": ""
+      },
+      {
+        "time": "20:27",
+        "title": "やってみての感想",
+        "section": ""
+      },
+      {
+        "time": "22:31",
+        "title": "消費税",
         "section": ""
       },
       {
@@ -3246,14 +3862,14 @@
       },
       {
         "time": "1:05:02",
-        "title": "エンディング #84 2025/4/2</span",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#84",
-    "url": "https://www.youtube.com/live/HTOmMkGaRTY?si=384glue5huNIlG6E",
+    "url": "https://www.youtube.com/live/HTOmMkGaRTY?si=384glue5huNIlG6E0",
     "entries": [
       {
         "time": "0:41",
@@ -3262,17 +3878,37 @@
       },
       {
         "time": "2:45",
-        "title": "室元気のお見合い大作戦 (4:26 コミ ュニティに合わせてキャラが変わる男 /",
+        "title": "室元気のお見合い大作戦",
+        "section": ""
+      },
+      {
+        "time": "4:26",
+        "title": "コミュニティに合わせてキャラが変わ る男",
         "section": ""
       },
       {
         "time": "8:35",
-        "title": "BOYS BAR[S]イベント)",
+        "title": "BOYS BAR[S]イベント",
         "section": ""
       },
       {
         "time": "11:21",
-        "title": "原神イファ役 /12:56 〜牧場物語 Let's!風のグランドバザール /15:48 〜ポケ マス テルくん /17:26 〜各ゲームのエイプリ ルフール",
+        "title": "原神イファ役",
+        "section": ""
+      },
+      {
+        "time": "12:56",
+        "title": "牧場物語 Let's!風のグランドバザ ール",
+        "section": ""
+      },
+      {
+        "time": "15:48",
+        "title": "ポケマス テルくん",
+        "section": ""
+      },
+      {
+        "time": "17:26",
+        "title": "各ゲームのエイプリルフール",
         "section": ""
       },
       {
@@ -3282,34 +3918,44 @@
       },
       {
         "time": "33:42",
-        "title": "新曲 ｢Contact｣(34:57 〜地続 きな人生)",
+        "title": "新曲 ｢Contact｣",
+        "section": "ふつおた"
+      },
+      {
+        "time": "34:57",
+        "title": "地続きな人生",
         "section": "ふつおた"
       },
       {
         "time": "41:18",
-        "title": "人と自分を比べてしまう時､ ど のように考えて割り切る？(54:10 〜割り切 る方法)",
+        "title": "人と自分を比べてしまう時､ ど のように考えて割り切る？",
+        "section": "ふつおた"
+      },
+      {
+        "time": "54:10",
+        "title": "割り切る方法",
         "section": "ふつおた"
       },
       {
         "time": "59:52",
-        "title": "構成員集会 2025(本番前公式ア カウントに上がってた写真の真相 /",
+        "title": "構成員集会 2025(本番前公式ア カウントに上がってた写真の真相",
         "section": "ふつおた"
       },
       {
         "time": "1:02:18",
-        "title": "手が 4)",
+        "title": "手が 4",
         "section": "ふつおた"
       },
       {
         "time": "1:03:48",
-        "title": "エンディング #85 2025/4/16</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#85",
-    "url": "https://www.youtube.com/live/MtB6PojK5XY?si=SJtA5hqq6I8YMy_F",
+    "url": "https://www.youtube.com/live/MtB6PojK5XY?si=SJtA5hqq6I8YMy_F0",
     "entries": [
       {
         "time": "0:43",
@@ -3318,17 +3964,37 @@
       },
       {
         "time": "9:11",
-        "title": "ガンニバル (14:15 〜室井慎次はガン ニバルオマージュ!?)",
+        "title": "ガンニバル",
+        "section": ""
+      },
+      {
+        "time": "14:15",
+        "title": "室井慎次はガンニバルオマージ ュ!?)",
         "section": ""
       },
       {
         "time": "21:05",
-        "title": "スオミの話をしよう (23:27 〜三谷 作品のファンタスティック /24:14 〜 ｢ファ ンタスティック｣ とは /28:44 〜清洲会議 /",
+        "title": "スオミの話をしよう",
+        "section": ""
+      },
+      {
+        "time": "23:27",
+        "title": "三谷作品のファンタスティック",
+        "section": ""
+      },
+      {
+        "time": "24:14",
+        "title": "｢ファンタスティック｣ とは",
+        "section": ""
+      },
+      {
+        "time": "28:44",
+        "title": "清洲会議",
         "section": ""
       },
       {
         "time": "29:23",
-        "title": "福田作品 (銀魂､ オタ恋など)/",
+        "title": "福田作品 (銀魂､ オタ恋など)",
         "section": ""
       },
       {
@@ -3348,19 +4014,24 @@
       },
       {
         "time": "45:50",
-        "title": "映画ルックバック (日本アカデ ミー賞にて最優秀アニメーション作品賞受 賞 /56:11 〜ヒカルの碁)",
+        "title": "映画ルックバック (日本アカデ ミー賞にて最優秀アニメーション作品賞受 賞",
+        "section": "ふつおた"
+      },
+      {
+        "time": "56:11",
+        "title": "ヒカルの碁",
         "section": "ふつおた"
       },
       {
         "time": "1:04:51",
-        "title": "エンディング #86 2025/5/7</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#86",
-    "url": "https://www.youtube.com/live/1C9MOCc1NuM?si=Oi9ayMdD2bgqxtv4",
+    "url": "https://www.youtube.com/live/1C9MOCc1NuM?si=Oi9ayMdD2bgqxtv40",
     "entries": [
       {
         "time": "0:31",
@@ -3369,32 +4040,52 @@
       },
       {
         "time": "2:25",
-        "title": "昨日までゴールデンウィーク (コナ ンをみた惇太さん /3:44 〜コナンキャンペ ーン (モンストコナンコラボ))",
+        "title": "昨日までゴールデンウィーク (コナ ンをみた惇太さん",
+        "section": ""
+      },
+      {
+        "time": "3:44",
+        "title": "コナンキャンペ ーン (モンストコナンコラボ))",
         "section": ""
       },
       {
         "time": "5:22",
-        "title": "普段の生活の中でアニメの世界 観で考えてしまうこと (7:26 〜最近見たコ ナン作品 /9:26 〜惇太さんなりの考察 /",
+        "title": "普段の生活の中でアニメの世界 観で考えてしまうこと",
+        "section": "ふつおた"
+      },
+      {
+        "time": "7:26",
+        "title": "最近見たコナン作品",
+        "section": "ふつおた"
+      },
+      {
+        "time": "9:26",
+        "title": "惇太さんなりの考察",
         "section": "ふつおた"
       },
       {
         "time": "21:36",
-        "title": "安室さん名前ありすぎ問題 /",
+        "title": "安室さん名前ありすぎ問題",
         "section": "ふつおた"
       },
       {
         "time": "25:16",
-        "title": "公安ってなに？/30:57 〜大和敢助 /",
+        "title": "公安ってなに？",
+        "section": "ふつおた"
+      },
+      {
+        "time": "30:57",
+        "title": "大和敢助",
         "section": "ふつおた"
       },
       {
         "time": "38:27",
-        "title": "黒の組織の黒幕 (キャラの年齢)/",
+        "title": "黒の組織の黒幕 (キャラの年齢)",
         "section": "ふつおた"
       },
       {
         "time": "45:27",
-        "title": "おっちゃんに感情移入)",
+        "title": "おっちゃんに感情移入",
         "section": "ふつおた"
       },
       {
@@ -3404,65 +4095,105 @@
       },
       {
         "time": "1:01:43",
-        "title": "エンディング #87 2025/5/21</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#87",
-    "url": "https://www.youtube.com/live/mj819wGfoz8?si=YRE_ktv8mpkDdtdU",
+    "url": "https://www.youtube.com/live/mj819wGfoz8?si=YRE_ktv8mpkDdtdU0",
     "entries": [
       {
         "time": "0:27",
-        "title": "Junt.act LIVE vol.1(裏話 / 喉の調 子 /12:23 〜鍼信者 /18:54 〜リハ /19:57 〜 タンバリン /23:39 〜予期せぬトラブル /",
+        "title": "Junt.act LIVE vol.1(裏話 / 喉の調子",
+        "section": ""
+      },
+      {
+        "time": "12:23",
+        "title": "鍼信者",
+        "section": ""
+      },
+      {
+        "time": "18:54",
+        "title": "リハ",
+        "section": ""
+      },
+      {
+        "time": "19:57",
+        "title": "タンバリン",
+        "section": ""
+      },
+      {
+        "time": "23:39",
+        "title": "予期せぬトラブル",
         "section": ""
       },
       {
         "time": "32:29",
-        "title": "フレッシュなスタッフさん /",
+        "title": "フレッシュなスタッフさん",
         "section": ""
       },
       {
         "time": "40:15",
-        "title": "ゴーラスメンバーの身長)",
+        "title": "ゴーラスメンバーの身長",
         "section": ""
       },
       {
         "time": "46:48",
-        "title": "ユニバの名探偵コナンアトラクシ ョン (51:55 〜 USJ を劇的に変えた､ たった 1 つの考え方 /57:57 〜犯人を覚えてる惇太 さん /1:04:56 〜コナンでいちばん面白いの)",
+        "title": "ユニバの名探偵コナンアトラクシ ョン",
+        "section": "ふつおた"
+      },
+      {
+        "time": "51:55",
+        "title": "USJ を劇的に変えた､ たった 1 つ の考え方",
+        "section": "ふつおた"
+      },
+      {
+        "time": "57:57",
+        "title": "犯人を覚えてる惇太さん",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:04:56",
+        "title": "コナンでいちばん面白いの",
         "section": "ふつおた"
       },
       {
         "time": "1:07:37",
-        "title": "血液型性格分類信じる？ (1:12:54 〜惇太さんのマネージャーさん /",
+        "title": "血液型性格分類信じる？",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:12:54",
+        "title": "惇太さんのマネージャーさん",
         "section": "ふつおた"
       },
       {
         "time": "1:16:04",
-        "title": "A 型がいちばんよく分からない /",
+        "title": "A 型がいちばんよく分からない",
         "section": "ふつおた"
       },
       {
         "time": "1:19:03",
-        "title": "変わってる人が多い AB 型 /",
+        "title": "変わってる人が多い AB 型",
         "section": "ふつおた"
       },
       {
         "time": "1:24:53",
-        "title": "惇太さんの両親)",
+        "title": "惇太さんのご両親",
         "section": "ふつおた"
       },
       {
         "time": "1:32:03",
-        "title": "エンディング #88 2025/6/4</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#88",
-    "url": "https://www.youtube.com/live/VmdWkSQ09FY?si=8KcQVGs3f4E6A8Fh",
+    "url": "https://www.youtube.com/live/VmdWkSQ09FY?si=8KcQVGs3f4E6A8Fh0",
     "entries": [
       {
         "time": "0:52",
@@ -3471,7 +4202,17 @@
       },
       {
         "time": "3:37",
-        "title": "ALIVE PARTY Ver.Growth(7:28 〜 リアルタイムで一緒に歳を重ねるコンテン ツ /10:37 〜キャラの歳変わると声も変え る？)",
+        "title": "ALIVE PARTY Ver.Growth",
+        "section": ""
+      },
+      {
+        "time": "7:28",
+        "title": "リアルタイムで一緒に歳を重ねるコ ンテンツ",
+        "section": ""
+      },
+      {
+        "time": "10:37",
+        "title": "キャラの歳変わると声も変える？",
         "section": ""
       },
       {
@@ -3481,29 +4222,69 @@
       },
       {
         "time": "25:39",
-        "title": "性格診断 (31:16 〜惇太さんの 兄妹エピソード /49:32 〜 YouTuber のヒカ ルさん /50:58 〜ゴーラスイエロー)",
+        "title": "性格診断",
+        "section": "ふつおた"
+      },
+      {
+        "time": "31:16",
+        "title": "惇太さんの兄妹エピソード",
+        "section": "ふつおた"
+      },
+      {
+        "time": "49:32",
+        "title": "YouTuber のヒカルさん",
+        "section": "ふつおた"
+      },
+      {
+        "time": "50:58",
+        "title": "ゴーラスイエロー",
         "section": "ふつおた"
       },
       {
         "time": "54:58",
-        "title": "誰にも理解されないこと (調味 料をかけない /56:02 〜小麦粉はキャンパ ス /1:04:17 〜調味料を食べるために飯食べ てる /1:14:17 〜水は時と場合による /",
+        "title": "誰にも理解されないこと (調味 料をかけない",
+        "section": "ふつおた"
+      },
+      {
+        "time": "56:02",
+        "title": "小麦粉はキャンパス",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:04:17",
+        "title": "調味料を食べるために飯食べてる",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:14:17",
+        "title": "水は時と場合による",
         "section": "ふつおた"
       },
       {
         "time": "1:18:47",
-        "title": "好きな飲み物 /1:23:11 〜みんあい 静岡 /1:24:03 〜ダイエット版ジンジャーエ ール)",
+        "title": "好きな飲み物",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:23:11",
+        "title": "みんあい静岡",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:24:03",
+        "title": "ダイエット版ジンジャーエール",
         "section": "ふつおた"
       },
       {
         "time": "1:30:51",
-        "title": "エンディング #89 2025/6/19</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#89",
-    "url": "https://www.youtube.com/live/Z4o0f5Jz76g?si=EDX2kEBM3C8VQST4",
+    "url": "https://www.youtube.com/live/Z4o0f5Jz76g?si=EDX2kEBM3C8VQST41",
     "entries": [
       {
         "time": "1:02",
@@ -3512,34 +4293,64 @@
       },
       {
         "time": "4:17",
-        "title": "Android Xperia 1 VII(5:17 〜イ キリポイント解放 /6:24 〜 Xperia そろそろ 寺島のこと意識し始めた？/7:49 〜データ移 行 /15:19 〜新 Xperia の良くなったところ /",
+        "title": "Android Xperia 1 VII",
+        "section": "ふつおた"
+      },
+      {
+        "time": "5:17",
+        "title": "イキリポイント解放",
+        "section": "ふつおた"
+      },
+      {
+        "time": "6:24",
+        "title": "Xperia そろそろ寺島のこと意識し 始めた？",
+        "section": "ふつおた"
+      },
+      {
+        "time": "7:49",
+        "title": "データ移行",
+        "section": "ふつおた"
+      },
+      {
+        "time": "15:19",
+        "title": "新 Xperia の良くなったところ",
         "section": "ふつおた"
       },
       {
         "time": "25:46",
-        "title": "注意点 /27:49 〜 iPhone とバト ル /33:40 〜はい勝ち)",
+        "title": "注意点",
+        "section": "ふつおた"
+      },
+      {
+        "time": "27:49",
+        "title": "iPhone とバトル",
+        "section": "ふつおた"
+      },
+      {
+        "time": "33:40",
+        "title": "はい勝ち)",
         "section": "ふつおた"
       },
       {
         "time": "42:16",
-        "title": "性格免許証 (注意喚起配信!?)/",
+        "title": "性格免許証 (注意喚起配信!?)",
         "section": "ふつおた"
       },
       {
         "time": "1:04:38",
-        "title": "感情をコントロールできない惇 太さん)",
+        "title": "感情をコントロールできない惇 太さん",
         "section": "ふつおた"
       },
       {
         "time": "1:04:54",
-        "title": "エンディング #90 2025/7/2</span",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#90",
-    "url": "https://www.youtube.com/live/xIjvemS6np8?si=Tg8Eyxe5p-SinK1O",
+    "url": "https://www.youtube.com/live/xIjvemS6np8?si=Tg8Eyxe5p-SinK1O0",
     "entries": [
       {
         "time": "0:42",
@@ -3548,12 +4359,57 @@
       },
       {
         "time": "11:06",
-        "title": "今流行りの曲のアンサーソング (11:36 〜 1 曲目 /13:19 〜 2 曲目 /14:23 〜時 代の変化 /17:24 〜おいしいパスタ作ったお 前 /18:25 〜白と冬 /20:13 〜令和 7 年ではア ンサーソングは無理 /25:33 〜自己肯定感 MAX ソングがトレンド /28:54 〜ビジュい いじゃん /33:08 〜 10 年後の流行りの音楽 /",
+        "title": "今流行りの曲のアンサーソング",
+        "section": ""
+      },
+      {
+        "time": "11:36",
+        "title": "1 曲目",
+        "section": ""
+      },
+      {
+        "time": "13:19",
+        "title": "2 曲目",
+        "section": ""
+      },
+      {
+        "time": "14:23",
+        "title": "時代の変化",
+        "section": ""
+      },
+      {
+        "time": "17:24",
+        "title": "おいしいパスタ作ったお前",
+        "section": ""
+      },
+      {
+        "time": "18:25",
+        "title": "白と冬",
+        "section": ""
+      },
+      {
+        "time": "20:13",
+        "title": "令和 7 年ではアンサーソングは無理",
+        "section": ""
+      },
+      {
+        "time": "25:33",
+        "title": "自己肯定感 MAX ソングがトレンド",
+        "section": ""
+      },
+      {
+        "time": "28:54",
+        "title": "ビジュいいじゃん",
+        "section": ""
+      },
+      {
+        "time": "33:08",
+        "title": "10 年後の流行りの音楽",
         "section": ""
       },
       {
         "time": "39:07",
-        "title": "小室哲哉さん)",
+        "title": "小室哲哉さん",
         "section": ""
       },
       {
@@ -3568,14 +4424,14 @@
       },
       {
         "time": "1:05:18",
-        "title": "エンディング [newpage] [chapter: ] #91</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#91",
-    "url": "https://www.youtube.com/live/uM2VekQLCvs?si=cEH4-QlKdqLWnpIP",
+    "url": "https://www.youtube.com/live/uM2VekQLCvs?si=cEH4-QlKdqLWnpIP0",
     "entries": [
       {
         "time": "0:33",
@@ -3614,14 +4470,14 @@
       },
       {
         "time": "1:00:28",
-        "title": "エンディング #92</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#92",
-    "url": "https://www.youtube.com/live/-AF8wFc970s?si=6CghVG7vXFrrPlkk",
+    "url": "https://www.youtube.com/live/-AF8wFc970s?si=6CghVG7vXFrrPlkk0",
     "entries": [
       {
         "time": "0:55",
@@ -3635,33 +4491,78 @@
       },
       {
         "time": "15:43",
-        "title": "最近見た作品 (機動戦士 Gundam GQuuuuuuX､ 30:27 〜ホラー系 YouTube(デニ怖､ ゾゾゾ)",
+        "title": "最近見た作品 (機動戦士 Gundam GQuuuuuuX､",
+        "section": ""
+      },
+      {
+        "time": "30:27",
+        "title": "ホラー系 YouTube(デニ怖､ ゾゾゾ)",
         "section": ""
       },
       {
         "time": "54:07",
-        "title": "地獄先生ぬ〜べ〜 (トラウマだ ったもの /55:49 〜しょうけら /1:00:59 〜 不思議の国のアリス /1:05:24 〜金田一少年 の事件簿､ 放課後の魔術師)",
+        "title": "地獄先生ぬ〜べ〜 (トラウマだ ったもの",
+        "section": "ふつおた"
+      },
+      {
+        "time": "55:49",
+        "title": "しょうけら",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:00:59",
+        "title": "不思議の国のアリス",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:05:24",
+        "title": "金田一少年の事件簿､ 放課後の 魔術師",
         "section": "ふつおた"
       },
       {
         "time": "1:07:03",
-        "title": "自分にそっくりな人が 3 人い る説 (そっくりな芸能人､ 上村祐翔さんに間 違えられる惇太さん /1:24:31 〜寺島惇太最 強に似てる人選手権)",
+        "title": "自分にそっくりな人が 3 人い る説 (そっくりな芸能人､ 上村祐翔さんに間 違えられる惇太さん",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:24:31",
+        "title": "寺島惇太最強に似てる人選手権)",
         "section": "ふつおた"
       },
       {
         "time": "1:27:05",
-        "title": "エンディング #93</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#93",
-    "url": "https://www.youtube.com/live/idfYzzcIsis?si=cQgfjdP3yLSoR1k6",
+    "url": "https://www.youtube.com/live/idfYzzcIsis?si=cQgfjdP3yLSoR1k61",
     "entries": [
       {
         "time": "1:38",
-        "title": "この 1 年間で気付いちゃったこと発 表会 (2:36 〜もんじゃ焼き改良の余地ある のに改良やめたよね /15:17 〜 Yahoo 知恵袋 もんじゃの器にゆとりが無い理由 /24:20 〜 〇〇焼きのネーミング /27:45 〜テーブルゲ ームの時のご飯 /)",
+        "title": "この 1 年間で気付いちゃったこと発 表会",
+        "section": ""
+      },
+      {
+        "time": "2:36",
+        "title": "もんじゃ焼き改良の余地あるのに改 良やめたよね",
+        "section": ""
+      },
+      {
+        "time": "15:17",
+        "title": "Yahoo 知恵袋 もんじゃの器にゆと りが無い理由",
+        "section": ""
+      },
+      {
+        "time": "24:20",
+        "title": "〇〇焼きのネーミング",
+        "section": ""
+      },
+      {
+        "time": "27:45",
+        "title": "テーブルゲームの時のご飯",
         "section": ""
       },
       {
@@ -3671,7 +4572,12 @@
       },
       {
         "time": "41:46",
-        "title": "11 連勤になったらどう乗り切 る？(吹き替えのお仕事について /57:09 〜 11 連勤の乗り越え方)",
+        "title": "11 連勤になったらどう乗り切 る？(吹き替えのお仕事について",
+        "section": "ふつおた"
+      },
+      {
+        "time": "57:09",
+        "title": "11 連勤の乗り越え方",
         "section": "ふつおた"
       },
       {
@@ -3681,14 +4587,14 @@
       },
       {
         "time": "1:09:29",
-        "title": "エンディング #94</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#94",
-    "url": "https://www.youtube.com/live/eonVSwMsIsI?si=xr7ylGE9y20mIXJR",
+    "url": "https://www.youtube.com/live/eonVSwMsIsI?si=xr7ylGE9y20mIXJR3",
     "entries": [
       {
         "time": "3:52",
@@ -3697,7 +4603,17 @@
       },
       {
         "time": "21:37",
-        "title": "バースデー配信振り返り (天候トラ ブル /25:23 〜 GoPro/31:07 〜来年どうす る？)",
+        "title": "バースデー配信振り返り (天候トラ ブル",
+        "section": ""
+      },
+      {
+        "time": "25:23",
+        "title": "GoPro",
+        "section": ""
+      },
+      {
+        "time": "31:07",
+        "title": "来年どうする？",
         "section": ""
       },
       {
@@ -3707,19 +4623,29 @@
       },
       {
         "time": "47:42",
-        "title": "バースデー配信 (競馬の)1 番最 初のレースのことは覚えてる？/57:37 〜 37 歳の目標 /1:11:50 〜おすすめプロテイン)",
+        "title": "バースデー配信 (競馬の)1 番最 初のレースのことは覚えてる？",
+        "section": "ふつおた"
+      },
+      {
+        "time": "57:37",
+        "title": "37 歳の目標",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:11:50",
+        "title": "おすすめプロテイン",
         "section": "ふつおた"
       },
       {
         "time": "1:14:25",
-        "title": "エンディング #95</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#95",
-    "url": "https://www.youtube.com/live/22UE9rF_Cx0?si=Qj1ARomzxiUPTg7w",
+    "url": "https://www.youtube.com/live/22UE9rF_Cx0?si=Qj1ARomzxiUPTg7w0",
     "entries": [
       {
         "time": "0:32",
@@ -3838,7 +4764,12 @@
       },
       {
         "time": "31:40",
-        "title": "得意なモノマネは？と聞かれたら 誰って答える？(33:07 SOPHIA 松岡さんの 歌う時の一瞬の癖)",
+        "title": "得意なモノマネは？と聞かれたら 誰って答える？",
+        "section": ""
+      },
+      {
+        "time": "33:07",
+        "title": "SOPHIA 松岡さんの歌う時の一瞬の 癖",
         "section": ""
       },
       {
@@ -3903,34 +4834,59 @@
       },
       {
         "time": "52:47",
-        "title": "失恋といえば何を思い浮かべ る？(失恋ソングプレイリスト /55:50 〜 1 曲 目 /57:47 〜 2 曲目 /1:00:02 〜 3 曲目 /",
+        "title": "失恋といえば何を思い浮かべ る？(失恋ソングプレイリスト",
+        "section": "ふつおた"
+      },
+      {
+        "time": "55:50",
+        "title": "1 曲目",
+        "section": "ふつおた"
+      },
+      {
+        "time": "57:47",
+        "title": "2 曲目",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:00:02",
+        "title": "3 曲目",
         "section": "ふつおた"
       },
       {
         "time": "1:03:10",
-        "title": "4 曲目 /1:04:50 〜 5 曲目 /",
+        "title": "4 曲目",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:04:50",
+        "title": "5 曲目",
         "section": "ふつおた"
       },
       {
         "time": "1:06:36",
-        "title": "6 曲目 /1:11:33 〜 7 曲目 / その他 リスナーさんのおすすめ失恋ソング /",
+        "title": "6 曲目",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:11:33",
+        "title": "7 曲目 その他リスナーさんのおすすめ失恋ソング",
         "section": "ふつおた"
       },
       {
         "time": "1:19:54",
-        "title": "8 曲目)",
+        "title": "8 曲目",
         "section": "ふつおた"
       },
       {
         "time": "1:24:28",
-        "title": "エンディング #96</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#96",
-    "url": "https://www.youtube.com/live/NXHsAVZKCJc?si=LzrEviG1ZC27c7we",
+    "url": "https://www.youtube.com/live/NXHsAVZKCJc?si=LzrEviG1ZC27c7we0",
     "entries": [
       {
         "time": "0:39",
@@ -3944,7 +4900,12 @@
       },
       {
         "time": "3:00",
-        "title": "秋めいてきた (喉の調子 /9:06 〜ラ ジ友対バン)",
+        "title": "秋めいてきた (喉の調子",
+        "section": ""
+      },
+      {
+        "time": "9:06",
+        "title": "ラジ友対バン",
         "section": ""
       },
       {
@@ -3959,19 +4920,29 @@
       },
       {
         "time": "48:22",
-        "title": "意外だねと言われたことのある 趣味や特技 (54:58 〜車顔 /55:30 〜車顔振 り分け)",
+        "title": "意外だねと言われたことのある 趣味や特技",
+        "section": ""
+      },
+      {
+        "time": "54:58",
+        "title": "車顔",
+        "section": ""
+      },
+      {
+        "time": "55:30",
+        "title": "車顔振り分け",
         "section": ""
       },
       {
         "time": "1:01:27",
-        "title": "エンディング #97</ span>",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#97",
-    "url": "https://www.youtube.com/live/VorsaAnxVGg?si=ythJ-3vLP1vlqNEa",
+    "url": "https://www.youtube.com/live/VorsaAnxVGg?si=ythJ-3vLP1vlqNEa0",
     "entries": [
       {
         "time": "0:25",
@@ -3980,7 +4951,12 @@
       },
       {
         "time": "2:43",
-        "title": "キンツア打ち上げ舞台挨拶 (キンプ リ 10 周年と惇太さんの声優人生 /5:31 〜虎 牙道お渡し会後のバイト)",
+        "title": "キンツア打ち上げ舞台挨拶 (キンプ リ 10 周年と惇太さんの声優人生",
+        "section": ""
+      },
+      {
+        "time": "5:31",
+        "title": "虎牙道お渡し会後のバイト",
         "section": ""
       },
       {
@@ -4010,7 +4986,7 @@
       },
       {
         "time": "1:12:25",
-        "title": "エンディング #98</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
@@ -4061,14 +5037,14 @@
       },
       {
         "time": "1:40:21",
-        "title": "エンディング (お仕事告知な ど) #99</ span>",
+        "title": "エンディング (お仕事告知な ど)",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#99",
-    "url": "https://www.youtube.com/live/Q_rLz8rvrXo?si=K7ElRJOMQzS8BFq2",
+    "url": "https://www.youtube.com/live/Q_rLz8rvrXo?si=K7ElRJOMQzS8BFq20",
     "entries": [
       {
         "time": "0:57",
@@ -4107,14 +5083,14 @@
       },
       {
         "time": "56:54",
-        "title": "エンディング )",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#100",
-    "url": "https://www.youtube.com/live/XT-L2N5mLXo?si=xYtYOrb8MLPM0SZz",
+    "url": "https://www.youtube.com/live/XT-L2N5mLXo?si=xYtYOrb8MLPM0SZz2",
     "entries": [
       {
         "time": "2:54",
@@ -4143,7 +5119,22 @@
       },
       {
         "time": "50:15",
-        "title": "最近の気になっているもの､ ハ マるものの共通点 (廃墟／ 1:02:40 〜好きな ゲームのジャンル／ 1:10:23 〜成果が目に 見えるのが好きな惇太さん (ギャンブル､ 追 い込みダイエット) ／ 1:17:02 〜声優が適職)",
+        "title": "最近の気になっているもの､ ハ マるものの共通点 (廃墟",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:02:40",
+        "title": "好きなゲームのジャンル",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:10:23",
+        "title": "成果が目に見えるのが好きな惇太 さん (ギャンブル､ 追い込みダイエット",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:17:02",
+        "title": "声優が適職)",
         "section": "ふつおた"
       },
       {
@@ -4163,14 +5154,14 @@
       },
       {
         "time": "3:07:25",
-        "title": "エンディング #101</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#101",
-    "url": "https://www.youtube.com/live/L6MZhkLiSKE?si=PG7MdButmF-yvRQk",
+    "url": "https://www.youtube.com/live/L6MZhkLiSKE?si=PG7MdButmF-yvRQk1",
     "entries": [
       {
         "time": "1:10",
@@ -4189,54 +5180,105 @@
       },
       {
         "time": "18:08",
-        "title": "MOIW 前乗り道中話 (〜歩きたく ない小松さん､ 25:38 〜トイレ／ 33:09 〜 大阪っぽいもの食べよう う)",
+        "title": "MOIW 前乗り道中話 (〜歩きたく ない小松さん",
+        "section": "ふつおた"
+      },
+      {
+        "time": "25:38",
+        "title": "トイレ",
+        "section": "ふつおた"
+      },
+      {
+        "time": "33:09",
+        "title": "大阪っぽいもの食べよう う) 深く語らせて",
         "section": "ふつおた"
       },
       {
         "time": "47:05",
-        "title": "各賞レースでおすすめの芸人さ ん (1:02:12 〜声優業界ディレクション話／",
-        "section": "深く語らせて"
+        "title": "各賞レースでおすすめの芸人さ ん",
+        "section": "ふつおた"
+      },
+      {
+        "time": "1:02:12",
+        "title": "声優業界ディレクション話",
+        "section": "ふつおた"
       },
       {
         "time": "1:10:43",
-        "title": "理不尽な攻撃からメンタルを守 るためのワクチン)",
-        "section": "深く語らせて"
+        "title": "理不尽な攻撃からメンタルを守る ためのワクチン)",
+        "section": "ふつおた"
       },
       {
         "time": "1:48:08",
-        "title": "エンディング #102(収 録) si=f6sLK2bumvoqicbf",
-        "section": "深く語らせて"
-      },
+        "title": "エンディング",
+        "section": "ふつおた"
+      }
+    ]
+  },
+  {
+    "episode": "#102",
+    "url": "https://youtu.be/3D4DHLyaa8I?si=f6sLK2bumvoqicbf0",
+    "entries": [
       {
         "time": "0:29",
         "title": "2025 ラストよふすた",
-        "section": "深く語らせて"
+        "section": ""
       },
       {
         "time": "3:07",
-        "title": "飲酒 1 人喋りチャレンジ (5:40 乾杯)",
-        "section": "深く語らせて"
+        "title": "飲酒 1 人喋りチャレンジ",
+        "section": ""
+      },
+      {
+        "time": "5:40",
+        "title": "乾杯",
+        "section": ""
       },
       {
         "time": "6:32",
-        "title": "お酒話 (7:11 〜 20 歳初お酒／ 12:30 〜 21 歳ビール ／ 14:03 〜日本酒 (二 日酔い) ／ 25:51 〜失敗以降のお酒との付き 合い方／ 30:52 〜好きなお酒の種類)",
-        "section": "深く語らせて"
+        "title": "お酒話",
+        "section": ""
+      },
+      {
+        "time": "7:11",
+        "title": "20 歳初お酒",
+        "section": ""
+      },
+      {
+        "time": "12:30",
+        "title": "21 歳ビール",
+        "section": ""
+      },
+      {
+        "time": "14:03",
+        "title": "日本酒 (二日酔い)",
+        "section": ""
+      },
+      {
+        "time": "25:51",
+        "title": "失敗以降のお酒との付き合い方",
+        "section": ""
+      },
+      {
+        "time": "30:52",
+        "title": "好きなお酒の種類",
+        "section": ""
       },
       {
         "time": "36:19",
         "title": "朗読劇 世界から猫が消えたなら (感想､ お芝居中の涙のお話)",
-        "section": "深く語らせて"
+        "section": ""
       },
       {
         "time": "51:23",
-        "title": "エンディング #103</ span>",
-        "section": "深く語らせて"
+        "title": "エンディング",
+        "section": ""
       }
     ]
   },
   {
     "episode": "#103",
-    "url": "https://www.youtube.com/live/gJE6So7Eb5M?si=be6T0oyOR6KEXrtn",
+    "url": "https://www.youtube.com/live/gJE6So7Eb5M?si=be6T0oyOR6KEXrtn5",
     "entries": [
       {
         "time": "5:05",
@@ -4255,14 +5297,14 @@
       },
       {
         "time": "1:06:06",
-        "title": "エンディング #104</ span>",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#104",
-    "url": "https://www.youtube.com/live/A1AS8yPN4_o?si=CLYCEpAvfM3D42bp",
+    "url": "https://www.youtube.com/live/A1AS8yPN4_o?si=CLYCEpAvfM3D42bp0",
     "entries": [
       {
         "time": "0:34",
@@ -4291,14 +5333,14 @@
       },
       {
         "time": "1:34:18",
-        "title": "エンディング #105</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#105",
-    "url": "https://www.youtube.com/live/XBJ_7rJ8_sY?si=oiJfqwshUNQZgH1Y",
+    "url": "https://www.youtube.com/live/XBJ_7rJ8_sY?si=oiJfqwshUNQZgH1Y0",
     "entries": [
       {
         "time": "0:58",
@@ -4322,14 +5364,14 @@
       },
       {
         "time": "1:35:38",
-        "title": "エンディング #106</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#106",
-    "url": "https://www.youtube.com/live/8CuPKdUGQI0?si=58OhdvPKwhelTj5l",
+    "url": "https://www.youtube.com/live/8CuPKdUGQI0?si=58OhdvPKwhelTj5l0",
     "entries": [
       {
         "time": "0:59",
@@ -4353,14 +5395,14 @@
       },
       {
         "time": "2:32:55",
-        "title": "エンディング #107(小 松昌平さんゲスト)",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
-    "episode": "#107 (小",
-    "url": "https://www.youtube.com/live/iWZrDmeNyq4?si=6VZaRuDwk0-uFaxE",
+    "episode": "#107",
+    "url": "https://www.youtube.com/live/iWZrDmeNyq4?si=6VZaRuDwk0-uFaxE0",
     "entries": [
       {
         "time": "0:37",
@@ -4379,7 +5421,12 @@
       },
       {
         "time": "27:33",
-        "title": "寺島惇太 Studio 画質荒いランキン グ (?)(29:43 〜寺畑)",
+        "title": "寺島惇太 Studio 画質荒いランキン グ (?)",
+        "section": ""
+      },
+      {
+        "time": "29:43",
+        "title": "寺畑",
         "section": ""
       },
       {
@@ -4389,14 +5436,14 @@
       },
       {
         "time": "51:25",
-        "title": "ﾓﾁﾛﾝ #108? (小松昌平さんゲスト)",
+        "title": "ﾓﾁﾛﾝ",
         "section": ""
       }
     ]
   },
   {
-    "episode": "#108 ?",
-    "url": "https://www.youtube.com/live/moIAEmvTAeg?si=Gimu8QIDD-xeAdmb",
+    "episode": "#108",
+    "url": "https://www.youtube.com/live/moIAEmvTAeg?si=Gimu8QIDD-xeAdmb0",
     "entries": [
       {
         "time": "0:26",
@@ -4420,17 +5467,32 @@
       },
       {
         "time": "12:41",
-        "title": "山口語録 (人狼バトル漫才裏話 ､ 19:50 某コンテンツ稽古の時の腹パ ン)",
+        "title": "山口語録 (人狼バトル漫才裏話",
+        "section": ""
+      },
+      {
+        "time": "19:50",
+        "title": "某コンテンツ稽古の時の腹パン",
         "section": ""
       },
       {
         "time": "32:36",
-        "title": "合ドック告知 (37:07 新曲)",
+        "title": "合ドック告知",
+        "section": ""
+      },
+      {
+        "time": "37:07",
+        "title": "新曲",
         "section": ""
       },
       {
         "time": "45:38",
-        "title": "ポケモン (55:23 画面切り替わり)",
+        "title": "ポケモン",
+        "section": ""
+      },
+      {
+        "time": "55:23",
+        "title": "画面切り替わり",
         "section": ""
       },
       {
@@ -4440,14 +5502,14 @@
       },
       {
         "time": "1:40:47",
-        "title": "エンディング #109</ span>",
+        "title": "エンディング",
         "section": ""
       }
     ]
   },
   {
     "episode": "#109",
-    "url": "https://www.youtube.com/live/5KDXx9jecWw?si=m1NEPxVGIRBCP-_l",
+    "url": "https://www.youtube.com/live/5KDXx9jecWw?si=m1NEPxVGIRBCP-_l1",
     "entries": [
       {
         "time": "1:25",
@@ -4481,14 +5543,14 @@
       },
       {
         "time": "1:22:33",
-        "title": "エンディング #110</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#110",
-    "url": "https://www.youtube.com/live/3g4kX4A6qT8?si=cDY8pxdfbV3v7WMc",
+    "url": "https://www.youtube.com/live/3g4kX4A6qT8?si=cDY8pxdfbV3v7WMc2",
     "entries": [
       {
         "time": "2:05",
@@ -4502,54 +5564,54 @@
       },
       {
         "time": "35:21",
-        "title": "ひっかかることその ② ひっかかりメール",
+        "title": "ひっかかることその ②",
         "section": ""
       },
       {
         "time": "52:30",
         "title": "カニ被害者 (カニ汁)",
-        "section": ""
+        "section": "ひっかかりメール"
       },
       {
         "time": "1:00:01",
         "title": "お菓子の内容量表記",
-        "section": ""
+        "section": "ひっかかりメール"
       },
       {
         "time": "1:05:01",
         "title": "ゲーム攻略",
-        "section": ""
+        "section": "ひっかかりメール"
       },
       {
         "time": "1:19:00",
         "title": "一時停止線",
-        "section": ""
+        "section": "ひっかかりメール"
       },
       {
         "time": "1:26:09",
         "title": "ワンタンスープ",
-        "section": ""
+        "section": "ひっかかりメール"
       },
       {
         "time": "1:36:20",
         "title": "東京でのゲロ遭遇率",
-        "section": ""
+        "section": "ひっかかりメール"
       },
       {
         "time": "1:44:26",
         "title": "カフェラテとカフェオレの違 い",
-        "section": ""
+        "section": "ひっかかりメール"
       },
       {
         "time": "1:57:05",
-        "title": "エンディング [newpage] [chapter: #120] #111</ span>",
-        "section": ""
+        "title": "エンディング",
+        "section": "ひっかかりメール"
       }
     ]
   },
   {
     "episode": "#111",
-    "url": "https://www.youtube.com/live/zLdfx4QIus0?si=3n8Jc1r2FDUUSPPt",
+    "url": "https://www.youtube.com/live/zLdfx4QIus0?si=3n8Jc1r2FDUUSPPt4",
     "entries": [
       {
         "time": "4:24",
@@ -4813,14 +5875,14 @@
       },
       {
         "time": "1:58:20",
-        "title": "睡眠が嫌いなのですが､ どうし ても眠らないといけない時はどうします か？ #112</ span>",
+        "title": "睡眠が嫌いなのですが､ どうし ても眠らないといけない時はどうします か？",
         "section": ""
       }
     ]
   },
   {
     "episode": "#112",
-    "url": "https://www.youtube.com/live/wYOiz4-E_Ts?si=4b_fUIkiKcH8hi8B",
+    "url": "https://www.youtube.com/live/wYOiz4-E_Ts?si=4b_fUIkiKcH8hi8B4",
     "entries": [
       {
         "time": "4:55",
@@ -4849,14 +5911,14 @@
       },
       {
         "time": "1:38:43",
-        "title": "エンディング #113</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#113",
-    "url": "https://www.youtube.com/live/x5bJb82xDMA?si=y8Nv9fUWXy7i8OyF",
+    "url": "https://www.youtube.com/live/x5bJb82xDMA?si=y8Nv9fUWXy7i8OyF1",
     "entries": [
       {
         "time": "1:53",
@@ -4880,14 +5942,14 @@
       },
       {
         "time": "1:37:25",
-        "title": "エンディング #114</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#114",
-    "url": "https://www.youtube.com/live/Bw-TDvZAVg4?si=DhuhJdz_7SVngx7J",
+    "url": "https://www.youtube.com/live/Bw-TDvZAVg4?si=DhuhJdz_7SVngx7J0",
     "entries": [
       {
         "time": "0:37",
@@ -4921,14 +5983,14 @@
       },
       {
         "time": "1:13:15",
-        "title": "エンディング #115</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#115",
-    "url": "https://www.youtube.com/live/CtL1WwlxTRQ?si=qVghuwKQ8FurnObJ",
+    "url": "https://www.youtube.com/live/CtL1WwlxTRQ?si=qVghuwKQ8FurnObJ1",
     "entries": [
       {
         "time": "1:15",
@@ -4952,34 +6014,34 @@
       },
       {
         "time": "1:33:22",
-        "title": "エンディング #116</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#116",
-    "url": "https://www.youtube.com/live/nTyAi1cconM?si=PmRpdYc2x0r0e71S",
+    "url": "https://www.youtube.com/live/nTyAi1cconM?si=PmRpdYc2x0r0e71S9",
     "entries": [
       {
         "time": "9:37",
-        "title": "新コーナー 改善の余地あり の 説明",
+        "title": "新コーナー の 説明",
         "section": ""
       },
       {
         "time": "12:58",
         "title": "お試しテーマ ① コントと漫才とピ ン芸を競わせるお笑い賞レース",
-        "section": ""
+        "section": "改善の余地あり"
       },
       {
         "time": "19:48",
         "title": "お試しテーマ ② パピコ",
-        "section": ""
+        "section": "改善の余地あり"
       },
       {
         "time": "25:50",
         "title": "お試しテーマ ③ 新 500 円玉いつま で\"新\"扱い？",
-        "section": ""
+        "section": "改善の余地あり"
       },
       {
         "time": "45:07",
@@ -4993,14 +6055,14 @@
       },
       {
         "time": "1:25:41",
-        "title": "エンディング #117</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#117",
-    "url": "https://www.youtube.com/live/EZRuZgc8iLc?si=MvYenbfrUSWPcNJr",
+    "url": "https://www.youtube.com/live/EZRuZgc8iLc?si=MvYenbfrUSWPcNJr0",
     "entries": [
       {
         "time": "0:28",
@@ -5009,18 +6071,18 @@
       },
       {
         "time": "12:12",
-        "title": "堀大輔さん 改善の余地あり",
+        "title": "堀大輔さん",
         "section": ""
       },
       {
         "time": "49:44",
         "title": "エレベーターでボタンの近くに たった人間が開閉ボタンを押さないといけ ない暗黙のルール",
-        "section": ""
+        "section": "改善の余地あり"
       },
       {
         "time": "57:55",
         "title": "LINE のブロック機能",
-        "section": ""
+        "section": "改善の余地あり"
       },
       {
         "time": "1:14:22",
@@ -5029,14 +6091,14 @@
       },
       {
         "time": "1:39:35",
-        "title": "エンディング #118</ span>",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
     "episode": "#118",
-    "url": "https://www.youtube.com/live/Q2Qnph6XMJA?si=fmJlo0tmU0W3-zoL",
+    "url": "https://www.youtube.com/live/Q2Qnph6XMJA?si=fmJlo0tmU0W3-zoL0",
     "entries": [
       {
         "time": "0:26",
@@ -5060,34 +6122,34 @@
       },
       {
         "time": "48:24",
-        "title": "運について 不幸貯金 改善の余地アリ！！",
+        "title": "運について 不幸貯金",
         "section": "ふつおた"
       },
       {
         "time": "1:00:45",
         "title": "ボタン電池",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:07:45",
         "title": "上座下座 飲み会関連のお話",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:47:30",
         "title": "エンディング",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:49:30",
-        "title": "サザエさんじゃんけん #119</ span>",
-        "section": "ふつおた"
+        "title": "サザエさんじゃんけん",
+        "section": "改善の余地アリ！！"
       }
     ]
   },
   {
     "episode": "#119",
-    "url": "https://www.youtube.com/live/aE0QQCtEH1Y?si=cSBo__tUIQUm1Xbm",
+    "url": "https://www.youtube.com/live/aE0QQCtEH1Y?si=cSBo__tUIQUm1Xbm3",
     "entries": [
       {
         "time": "3:25",
@@ -5111,29 +6173,29 @@
       },
       {
         "time": "1:03:00",
-        "title": "正しい使い方､ やり方がある のについ最近まで間違ってこんな風にして いた､ というものはある？ 改善の余地アリ！！",
+        "title": "正しい使い方､ やり方がある のについ最近まで間違ってこんな風にして いた､ というものはある？",
         "section": "ふつおた"
       },
       {
         "time": "40:58",
         "title": "｢適当｣ という言葉",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "55:07",
         "title": "美容師さんに ｢髪を触ってみて ください｣ と言われ触ったあとの返答",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:17:37",
-        "title": "エンディング (お仕事告知な ど) #120</ span>",
-        "section": "ふつおた"
+        "title": "エンディング (お仕事告知な ど)",
+        "section": "改善の余地アリ！！"
       }
     ]
   },
   {
     "episode": "#120",
-    "url": "https://www.youtube.com/live/0AjZmDZrxns?si=QVzDa7trTaewe7Xr",
+    "url": "https://www.youtube.com/live/0AjZmDZrxns?si=QVzDa7trTaewe7Xr0",
     "entries": [
       {
         "time": "0:28",
@@ -5162,64 +6224,69 @@
       },
       {
         "time": "23:32",
-        "title": "スーパーカップ抹茶味 製造終 了(製造中止になって悲しかった食べ物や飲 み物) 改善の余地アリ！！",
+        "title": "スーパーカップ抹茶味 製造終 了(製造中止になって悲しかった食べ物や飲 み物)",
         "section": "ふつおた"
       },
       {
         "time": "32:18",
         "title": "店主が必要以上に緊張感を与え てくる飲食店 (ドレスコードも怖くない？)",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "46:06",
         "title": "レトルト食品の袋って開けにく くない？",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "51:49",
         "title": "謙遜しすぎて もはや失礼では？ みたいな表現 (つまらないものですが…問題)",
-        "section": "ふつおた"
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:19:09",
-        "title": "エンディング (お仕事告知な ど) [newpage] [chapter:#121 〜最新回] #121</ span>",
-        "section": "ふつおた"
+        "title": "エンディング (お仕事告知な ど)",
+        "section": "改善の余地アリ！！"
       }
     ]
   },
   {
     "episode": "#121",
-    "url": "https://www.youtube.com/live/Sd5VxqC7NNE?si=XiVqd2wum_Kh7u6a",
+    "url": "https://www.youtube.com/live/Sd5VxqC7NNE?si=XiVqd2wum_Kh7u6a0",
     "entries": [
       {
         "time": "0:42",
-        "title": "キングオブコント 2026 改善の余地アリ！！",
+        "title": "キングオブコント 2026",
         "section": ""
       },
       {
         "time": "7:17",
         "title": "1 グループワンドリンク (例:焼肉屋で 焼肉頼まないのってアリ？等)",
-        "section": ""
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "57:32",
-        "title": "タクシー問題 (乗車距離が短いと嫌 な顔される／ 1:01:21 怒り狂う惇太さん)",
-        "section": ""
+        "title": "タクシー問題 (乗車距離が短いと嫌 な顔される",
+        "section": "改善の余地アリ！！"
+      },
+      {
+        "time": "1:01:21",
+        "title": "怒り狂う惇太さん",
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:04:41",
         "title": "エスカレーター 片側空け問題",
-        "section": ""
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:12:24",
         "title": "薬は錠剤かつ１日1 回１錠に してほしい",
-        "section": ""
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:26:14",
         "title": "センサー式蛇口",
-        "section": ""
+        "section": "改善の余地アリ！！"
       },
       {
         "time": "1:20:02",
@@ -5228,14 +6295,14 @@
       },
       {
         "time": "1:39:16",
-        "title": "エンディング 夜ふかし Studio#3 2021/6/1",
+        "title": "エンディング",
         "section": "ふつおた"
       }
     ]
   },
   {
-    "episode": "Studio#3 2021/6/1",
-    "url": "https://www.youtube.com/live/MyUzEhBpdf0?si=0rBZIp7Cu_dH-x_K",
+    "episode": "#3 夜ふかし Studio#3",
+    "url": "https://www.youtube.com/live/MyUzEhBpdf0?si=0rBZIp7Cu_dH-x_K1",
     "entries": [
       {
         "time": "1:34",
@@ -5254,7 +6321,7 @@
       },
       {
         "time": "17:10",
-        "title": "重大発表その ②(配信限定シングル /",
+        "title": "重大発表その ②(配信限定シングル",
         "section": ""
       },
       {
@@ -5269,124 +6336,124 @@
       },
       {
         "time": "25:56",
-        "title": "アー写ジャケ写裏話 (29:50 もふも ふわんこ)",
+        "title": "アー写ジャケ写裏話",
         "section": ""
       },
       {
-        "time": "31:30",
-        "title": "質問タイム",
+        "time": "29:50",
+        "title": "もふもふわんこ",
         "section": ""
       },
       {
         "time": "33:31",
         "title": "お昼何食べた？",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "35:24",
         "title": "どうして紫と黄色が好きになっ た？(堂本剛さん / 色との相性)",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "48:04",
         "title": "白井さんが漫才するならずんた",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "50:54",
         "title": "息抜きの方法",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "53:30",
         "title": "ダイエットが終わったら一番最初 に食べたいもの",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "54:58",
         "title": "魔女の家やってるよ",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "55:37",
         "title": "今までのキャラソンでいちばん難 しかった曲",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "57:50",
         "title": "惇太さんのホラゲ実況",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "58:40",
         "title": "桃鉄またやる？(野田ゲーパーテ ィー)",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:01:46",
         "title": "最近聴いているバンド",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:03:57",
         "title": "乾燥機が呼んでるよ",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:04:43",
         "title": "ボカロ",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:07:06",
         "title": "今いちばん歌いたい曲",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:10:11",
         "title": "睡眠時間",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:16:37",
         "title": "｢だましたな！？｣",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:18:48",
         "title": "お悩み相談",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:22:44",
         "title": "鼻の骨を折ったリスナーさん",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:29:20",
         "title": "声優になりたいと思った決め手",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:34:07",
         "title": "赤堀さん",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:35:20",
         "title": "生きてるだけでえらい！",
-        "section": ""
+        "section": "質問タイム"
       },
       {
         "time": "1:36:21",
-        "title": "エンディング 夜ふかし Studio#2 2021/1/21",
-        "section": ""
+        "title": "エンディング",
+        "section": "質問タイム"
       }
     ]
   },
   {
-    "episode": "Studio#2 2021/1/21",
-    "url": "https://www.youtube.com/live/Hph6zSzTkbQ?si=qN1Ra178HpkSghdp",
+    "episode": "#2 夜ふかし Studio",
+    "url": "https://www.youtube.com/live/Hph6zSzTkbQ?si=qN1Ra178HpkSghdp0",
     "entries": [
       {
         "time": "0:51",
@@ -5405,7 +6472,12 @@
       },
       {
         "time": "9:17",
-        "title": "桃鉄 8 時間 (11:05 オワコン睡眠)",
+        "title": "桃鉄 8 時間",
+        "section": ""
+      },
+      {
+        "time": "11:05",
+        "title": "オワコン睡眠",
         "section": ""
       },
       {
@@ -5425,12 +6497,22 @@
       },
       {
         "time": "31:22",
-        "title": "お部屋改造 (37:34 〜ムジラー /",
+        "title": "お部屋改造",
+        "section": ""
+      },
+      {
+        "time": "37:34",
+        "title": "ムジラー",
         "section": ""
       },
       {
         "time": "41:07",
-        "title": "メガネ /57:13 〜オシャレとオタク)",
+        "title": "メガネ",
+        "section": ""
+      },
+      {
+        "time": "57:13",
+        "title": "オシャレとオタク",
         "section": ""
       },
       {
@@ -5440,6 +6522,82 @@
       },
       {
         "time": "3:24:35",
+        "title": "エンディング",
+        "section": ""
+      }
+    ]
+  },
+  {
+    "episode": "#1 夜ふかし Studio",
+    "url": "https://www.youtube.com/live/rH4RvmtYBPY?si=DWLY7Y6ZBRi26VNV3",
+    "entries": [
+      {
+        "time": "3:56",
+        "title": "夜ふかし Studio は睡眠導入配信",
+        "section": ""
+      },
+      {
+        "time": "5:15",
+        "title": "乾杯 (お茶トーク)",
+        "section": ""
+      },
+      {
+        "time": "10:53",
+        "title": "重大発表 (ジョイクリ / 胃カメ ラ",
+        "section": ""
+      },
+      {
+        "time": "15:22",
+        "title": "ギャル惇太さん)",
+        "section": ""
+      },
+      {
+        "time": "18:00",
+        "title": "コロナ禍イベントの拍手",
+        "section": ""
+      },
+      {
+        "time": "24:54",
+        "title": "Bluetooth イヤホン (ガジェット系 YouTuber",
+        "section": ""
+      },
+      {
+        "time": "37:36",
+        "title": "家電マニアの小松さん",
+        "section": ""
+      },
+      {
+        "time": "39:09",
+        "title": "｢惇太さんともあろう人がサウン ドバーに手を出してないなんて…｣",
+        "section": ""
+      },
+      {
+        "time": "42:00",
+        "title": "お土産がサウンドバーに)",
+        "section": ""
+      },
+      {
+        "time": "44:41",
+        "title": "ラジオのカット事情",
+        "section": ""
+      },
+      {
+        "time": "46:53",
+        "title": "ゲーム話 (声優は出演した作品 だと完パケ品貰える / チェックまでが仕事)",
+        "section": ""
+      },
+      {
+        "time": "54:24",
+        "title": "毛は大事",
+        "section": ""
+      },
+      {
+        "time": "59:06",
+        "title": "To the moon スタート",
+        "section": ""
+      },
+      {
+        "time": "4:36:39",
         "title": "エンディング",
         "section": ""
       }
