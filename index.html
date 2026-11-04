@@ -33,8 +33,8 @@
 <body>
 <main>
   <h1>よふすたタイムスタンプ検索</h1>
-  <p class="lead">気になる話題やトークを、キーワードから検索できます。</p>
-  <div class="search-wrap"><input id="search" type="search" placeholder="例：小松さん、ふつおた、グラボ…" autocomplete="off"></div>
+  <p class="lead">エピソードや話題のキーワードからタイムスタンプを探せます。</p>
+  <div class="search-wrap"><input id="search" type="search" placeholder="例：ふつおた、ゲーム、ゴーラス…" autocomplete="off"></div>
   <div id="status" aria-live="polite">データを読み込んでいます…</div>
   <div id="results"></div>
 </main>
@@ -49,47 +49,6 @@ function escapeHTML(value) {
 }
 function toSeconds(time) {
   return time.split(':').map(Number).reduce((total, part) => total * 60 + part, 0);
-}
-// タイトル内に続けて書かれた時刻も、独立した検索項目として展開する。
-function cleanTitlePart(value, isPrefix = false) {
-  let text = String(value || '').trim();
-  if (!isPrefix) text = text.replace(/^[\s　]*[〜～~]?\s*/, '');
-  text = text.replace(/^[\s　]*[\/／|､，,;；]+[\s　]*/, '');
-  text = text.replace(/[\s　]*[\/／|､，,;；]+[\s　]*$/, '').trim();
-  if (isPrefix) {
-    text = text.replace(/[\s　]*[（(][\s　]*$/, '').trim();
-  } else if (/[)）]$/.test(text)) {
-    const opens = (text.match(/[（(]/g) || []).length;
-    const closes = (text.match(/[）)]/g) || []).length;
-    if (closes > opens) text = text.replace(/[）)]\s*$/, '').trim();
-  }
-  return text;
-}
-function expandEmbeddedTimestamps(entries) {
-  const expanded = [];
-  const timestampPattern = /(?:^|[^\d:])((?:\d{1,2}:)?\d{1,2}:\d{2})(?!\d)/g;
-  for (const entry of entries || []) {
-    const title = String(entry.title || '');
-    const matches = [];
-    let match;
-    while ((match = timestampPattern.exec(title)) !== null) {
-      const start = match.index + match[0].length - match[1].length;
-      matches.push({ time: match[1], start, end: start + match[1].length });
-    }
-    if (!matches.length) {
-      expanded.push(entry);
-      continue;
-    }
-    const firstTitle = cleanTitlePart(title.slice(0, matches[0].start), true);
-    if (firstTitle) expanded.push({ ...entry, title: firstTitle });
-    for (let i = 0; i < matches.length; i++) {
-      const current = matches[i];
-      const nextStart = matches[i + 1]?.start ?? title.length;
-      const partTitle = cleanTitlePart(title.slice(current.end, nextStart));
-      if (partTitle) expanded.push({ ...entry, time: current.time, title: partTitle });
-    }
-  }
-  return expanded;
 }
 function youtubeTimeURL(url, time) {
   const clean = new URL(url);
